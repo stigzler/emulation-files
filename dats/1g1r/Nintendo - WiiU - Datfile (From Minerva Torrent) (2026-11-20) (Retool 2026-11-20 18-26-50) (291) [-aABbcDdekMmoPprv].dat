@@ -1,0 +1,1469 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - WiiU - Datfile (From Minerva Torrent) (2026-11-20) (Retool)</name>
+		<description>Nintendo - WiiU - Datfile (From Minerva Torrent) (2026-11-20) (291) [-aABbcDdekMmoPprv] (2026-03-18 08-54-09) (Retool)</description>
+		<version>2026-03-18 08-54-09</version>
+		<date>2026-11-20 18-26-50</date>
+		<author>Unknown</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>Unknown</url>
+		<retool>Created by Retool 2.4.9</retool>
+	</header>
+	<game name="007 Legends (USA) (En,Fr)">
+		<category>Games</category>
+		<description>007 Legends (USA) (En,Fr)</description>
+		<rom name="007 Legends (USA) (En,Fr).zip" size="9645225877" crc="df2b77de" md5="df2b77dedaecbb7275cb070da8246848" sha1="96f90f2987ea588d8530ab29faf44e2996c9c0ee"/>
+	</game>
+	<game name="0100870 - DISC, CAT-I RTL NOV '14 USA-PT (USA)">
+		<category>Games</category>
+		<description>0100870 - DISC, CAT-I RTL NOV '14 USA-PT (USA)</description>
+		<rom name="0100870 - DISC, CAT-I RTL NOV '14 USA-PT (USA).zip" size="3945735466" crc="5b64a463" md5="5b64a463e856f24be71e8dfaa54cef7e" sha1="2dc08b28a97de5399c8e5c98a08af6d78619215d"/>
+	</game>
+	<game name="0100872 - DISC, CAT-I RTL NOV '14 USA-FL (USA)">
+		<category>Games</category>
+		<description>0100872 - DISC, CAT-I RTL NOV '14 USA-FL (USA)</description>
+		<rom name="0100872 - DISC, CAT-I RTL NOV '14 USA-FL (USA).zip" size="15606676075" crc="a7bfd3f1" md5="a7bfd3f10b6e303b36b76c7f00ee0f3c" sha1="a43e16036017e18815f6801aa378b2dc39069922"/>
+	</game>
+	<game name="0103771 - DISC, CAT-I RTL MAR '16 USA-PT (USA)">
+		<category>Games</category>
+		<description>0103771 - DISC, CAT-I RTL MAR '16 USA-PT (USA)</description>
+		<rom name="0103771 - DISC, CAT-I RTL MAR '16 USA-PT (USA).zip" size="3201014187" crc="c368eb6e" md5="c368eb6eca03083a233188f2d7057706" sha1="58b6bb453977ed0e907ec52e7a372b27ad0c3723"/>
+	</game>
+	<game name="0103794 - DISC, CAT-I RTL MAR '16 1-2 LTN-FL (Latin America)">
+		<category>Games</category>
+		<description>0103794 - DISC, CAT-I RTL MAR '16 1-2 LTN-FL (Latin America)</description>
+		<rom name="0103794 - DISC, CAT-I RTL MAR '16 1-2 LTN-FL (Latin America).zip" size="17542771670" crc="d8ceeb23" md5="d8ceeb2340e158aa3761a5702a9cf007" sha1="2d03940e84269564723e0eec7a28e8aab6cf5627"/>
+	</game>
+	<game name="100148 - DISC, CAT-I RTL AUG '14 USA-PT (USA)">
+		<category>Games</category>
+		<description>100148 - DISC, CAT-I RTL AUG '14 USA-PT (USA)</description>
+		<rom name="100148 - DISC, CAT-I RTL AUG '14 USA-PT (USA).zip" size="3792831910" crc="7a5e8107" md5="7a5e8107c15b32cc54e85e32e0e366d6" sha1="2a3398440ab5a06ff40a59265f4a3a3a7ed328d9"/>
+	</game>
+	<game name="101446 - DISC, CAT-I RTL DEC '14 USA-PT (USA)">
+		<category>Games</category>
+		<description>101446 - DISC, CAT-I RTL DEC '14 USA-PT (USA)</description>
+		<rom name="101446 - DISC, CAT-I RTL DEC '14 USA-PT (USA).zip" size="11254552992" crc="b4b376a4" md5="b4b376a48d71032e09dc8a46210feffa" sha1="53477ef171f995c9d4de5b7108c1c4c37363a7b3"/>
+	</game>
+	<game name="102079 - DISC, CAT-I RTL MAY '15 USA-PT (USA)">
+		<category>Games</category>
+		<description>102079 - DISC, CAT-I RTL MAY '15 USA-PT (USA)</description>
+		<rom name="102079 - DISC, CAT-I RTL MAY '15 USA-PT (USA).zip" size="3095983949" crc="e93cbf3b" md5="e93cbf3ba5f682bf2b07a187dbd4915d" sha1="dfeb7690a5a9947452b871a4077e2ff995bf2230"/>
+	</game>
+	<game name="102091 - DISC, CAT-I RTL MAY '15 1-2 LTN-FL (Latin America)">
+		<category>Games</category>
+		<description>102091 - DISC, CAT-I RTL MAY '15 1-2 LTN-FL (Latin America)</description>
+		<rom name="102091 - DISC, CAT-I RTL MAY '15 1-2 LTN-FL (Latin America).zip" size="16321456865" crc="160e0bca" md5="160e0bcafc38549d2d74a7b91cf1f8bb" sha1="0b2fbdc8ca49523d53b0df2d38c5802593728882"/>
+	</game>
+	<game name="102405 - DISC, CAT-I RTL MAY '15 2-2 LTN-FL (Latin America)">
+		<category>Games</category>
+		<description>102405 - DISC, CAT-I RTL MAY '15 2-2 LTN-FL (Latin America)</description>
+		<rom name="102405 - DISC, CAT-I RTL MAY '15 2-2 LTN-FL (Latin America).zip" size="7417866271" crc="713013ca" md5="713013ca2f523d55e97a50cf1bc06908" sha1="eaaac423dcf53d03139453532debaebcf72d337d"/>
+	</game>
+	<game name="102812 - DISC, CAT-I RTL AUG '15 USA-PT (USA)">
+		<category>Games</category>
+		<description>102812 - DISC, CAT-I RTL AUG '15 USA-PT (USA)</description>
+		<rom name="102812 - DISC, CAT-I RTL AUG '15 USA-PT (USA).zip" size="4794829025" crc="853b6ac0" md5="853b6ac0f7755ef9d88c1cec2d811498" sha1="8acd5f6205d8127e3b131da05c3b6157e7889511"/>
+	</game>
+	<game name="102831 - DISC, CAT-I RTL AUG '15 1-2 LTN-FL (Latin America)">
+		<category>Games</category>
+		<description>102831 - DISC, CAT-I RTL AUG '15 1-2 LTN-FL (Latin America)</description>
+		<rom name="102831 - DISC, CAT-I RTL AUG '15 1-2 LTN-FL (Latin America).zip" size="18486786993" crc="bac17f9b" md5="bac17f9b066e8f8b892123fe9db5f393" sha1="b759990722e53be4f65e5a06034ff276dbed2d10"/>
+	</game>
+	<game name="103292 - DISC, CAT-I RTL NOV '15 USA-PT (USA)">
+		<category>Games</category>
+		<description>103292 - DISC, CAT-I RTL NOV '15 USA-PT (USA)</description>
+		<rom name="103292 - DISC, CAT-I RTL NOV '15 USA-PT (USA).zip" size="3757741764" crc="50909d0a" md5="50909d0af916092fb9f3165d562af3da" sha1="56533c5feb8c1800f3c721494eba3b5d22a1914c"/>
+	</game>
+	<game name="104571 - Disc, CAT-I RTL OCT '16 USA-PT (USA)">
+		<category>Games</category>
+		<description>104571 - Disc, CAT-I RTL OCT '16 USA-PT (USA)</description>
+		<rom name="104571 - Disc, CAT-I RTL OCT '16 USA-PT (USA).zip" size="4039202762" crc="99aaf421" md5="99aaf421bcd133d722e78a2dfe92419e" sha1="7973a6c7cf9a82b1c8aee3a9ac91ed585ec978ee"/>
+	</game>
+	<game name="79883 - DISC, CAT-I RTL JAN '13 USA (USA)">
+		<category>Games</category>
+		<description>79883 - DISC, CAT-I RTL JAN '13 USA (USA)</description>
+		<rom name="79883 - DISC, CAT-I RTL JAN '13 USA (USA).zip" size="11377996807" crc="f66ca8b9" md5="f66ca8b9d05a1bc7048eaa594b29b003" sha1="d79c31131c0d910ab78dfacda37df3eeab744670"/>
+	</game>
+	<game name="81641 - DISC, CAT-I PIKMIN 3 EVENTRTLCANUSA (USA)">
+		<category>Games</category>
+		<description>81641 - DISC, CAT-I PIKMIN 3 EVENTRTLCANUSA (USA)</description>
+		<rom name="81641 - DISC, CAT-I PIKMIN 3 EVENTRTLCANUSA (USA).zip" size="1971119414" crc="421635d4" md5="421635d40d600db78d177520c059e93e" sha1="f87301505b982d840d714f3af24d3c690fefb6a0"/>
+	</game>
+	<game name="81642 - DISC, CAT-I PIKMIN 3 POST RTL (USA)">
+		<category>Games</category>
+		<description>81642 - DISC, CAT-I PIKMIN 3 POST RTL (USA)</description>
+		<rom name="81642 - DISC, CAT-I PIKMIN 3 POST RTL (USA).zip" size="5386904" crc="90fd49f8" md5="90fd49f8595bc9949b895c6766857ccc" sha1="3ec2ee5f8ce166fb54a9efc8f8bddc2af5be1a0c"/>
+	</game>
+	<game name="81854 - DISC, CAT-I UPDATE RTL AUG '13 USAWM (USA)">
+		<category>Games</category>
+		<description>81854 - DISC, CAT-I UPDATE RTL AUG '13 USAWM (USA)</description>
+		<rom name="81854 - DISC, CAT-I UPDATE RTL AUG '13 USAWM (USA).zip" size="620528500" crc="c25d8cbb" md5="c25d8cbbc4557f8085a90eaa98faaa55" sha1="1bf75109843b37785b738fa61c4a07e7e25b50c2"/>
+	</game>
+	<game name="83178 - DISC, CAT-I RTL MAR '14 USA-PT (USA)">
+		<category>Games</category>
+		<description>83178 - DISC, CAT-I RTL MAR '14 USA-PT (USA)</description>
+		<rom name="83178 - DISC, CAT-I RTL MAR '14 USA-PT (USA).zip" size="1107185277" crc="308f10c8" md5="308f10c8177553e02b8d23e04e4647c7" sha1="ed8842eec15409c367826adf4f8222a3420fd7a3"/>
+	</game>
+	<game name="83402 - CAT-I RTL MAY '14 USA-PT (USA)">
+		<category>Games</category>
+		<description>83402 - CAT-I RTL MAY '14 USA-PT (USA)</description>
+		<rom name="83402 - CAT-I RTL MAY '14 USA-PT (USA).zip" size="4043596971" crc="0319feca" md5="0319fecae95a6bd8f77132b8c687a81d" sha1="2c3fc41f1acf5f7b1f02866094e1f69c5c10f3a7"/>
+	</game>
+	<game name="ABC Wipeout - Create &amp; Crash (USA)">
+		<category>Games</category>
+		<description>ABC Wipeout - Create &amp; Crash (USA)</description>
+		<rom name="ABC Wipeout - Create &amp; Crash (USA).zip" size="2694253695" crc="01ed2adf" md5="01ed2adf4951d84813cc8cb78bfab0bc" sha1="c15945513b4e3166067572e34f7a924964130af8"/>
+	</game>
+	<game name="ABC Wipeout 3 (USA)">
+		<category>Games</category>
+		<description>ABC Wipeout 3 (USA)</description>
+		<rom name="ABC Wipeout 3 (USA).zip" size="2107473108" crc="ccf38e9b" md5="ccf38e9b7232b0397c42aa22341edb17" sha1="211dabf78f0595c6fec2fe5772712d16e2238f32"/>
+	</game>
+	<game name="Adventure Time - Explore the Dungeon Because I Don't Know! (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Adventure Time - Explore the Dungeon Because I Don't Know! (USA) (En,Fr,Es)</description>
+		<rom name="Adventure Time - Explore the Dungeon Because I Don't Know! (USA) (En,Fr,Es).zip" size="2145428886" crc="8196e39e" md5="8196e39e3d002f8a74d5d5eb2e63c843" sha1="0bce99c768e7e2ec431274cf2a5ff3069373f1c3"/>
+	</game>
+	<game name="Adventure Time - Finn &amp; Jake Investigations (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Adventure Time - Finn &amp; Jake Investigations (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Adventure Time - Finn &amp; Jake Investigations (USA) (En,Fr,Es,Pt).zip" size="2759615950" crc="b4f56515" md5="b4f565157c992a3f970bf7809ce39222" sha1="91d7a3075be5bfb07aeb9853a447cf0f7150ab0d"/>
+	</game>
+	<game name="Amazing Spider-Man 2, The (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Amazing Spider-Man 2, The (USA) (En,Fr)</description>
+		<rom name="Amazing Spider-Man 2, The (USA) (En,Fr).zip" size="8474566674" crc="80eb7276" md5="80eb7276273156c25194c2770c9928e8" sha1="cd3ded6ce84467d4b5a9d232dd5a8a17c9931eab"/>
+	</game>
+	<game name="Amazing Spider-Man, The - Ultimate Edition (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Amazing Spider-Man, The - Ultimate Edition (USA) (En,Fr,Es)</description>
+		<rom name="Amazing Spider-Man, The - Ultimate Edition (USA) (En,Fr,Es).zip" size="9273498580" crc="8ce40ec9" md5="8ce40ec9b28e4706c8300c182b9df561" sha1="1ddc0dc38a16894167105df817b2da793ff3665a"/>
+	</game>
+	<game name="Angry Birds Star Wars (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Angry Birds Star Wars (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Angry Birds Star Wars (USA) (En,Fr,Es,Pt).zip" size="2435001657" crc="c8108bac" md5="c8108bacef13a19ae76af7f59b1947e0" sha1="2e6a9f42a4ea26477d36b4fb3ae3a3a443cfbc8e"/>
+	</game>
+	<game name="Angry Birds Trilogy (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Angry Birds Trilogy (USA) (En,Fr)</description>
+		<rom name="Angry Birds Trilogy (USA) (En,Fr).zip" size="2841400888" crc="1139e9f1" md5="1139e9f145e99281f51636ebf81c9358" sha1="8ce0d19d48a3f10916317be22f7f2de649a0c6c5"/>
+	</game>
+	<game name="Animal Crossing - Amiibo Festival (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Animal Crossing - Amiibo Festival (USA) (En,Fr,Es)</description>
+		<rom name="Animal Crossing - Amiibo Festival (USA) (En,Fr,Es).zip" size="2739655650" crc="5104fab9" md5="5104fab9645f8796d516d39cd7400eea" sha1="4b01f1fc644abdc7ccafce139395999c9aaf670b"/>
+	</game>
+	<game name="Art Academy - Atelier (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+		<category>Games</category>
+		<description>Art Academy - Atelier (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+		<rom name="Art Academy - Atelier (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).zip" size="6615676458" crc="500b067f" md5="500b067f3f2e858919db6ec8cb35208a" sha1="8d6e46ec4ecd5b62b537ad6b3fd80c238eea5c3d"/>
+	</game>
+	<game name="Assassin's Creed III (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Assassin's Creed III (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Assassin's Creed III (USA) (En,Fr,Es,Pt).zip" size="17584640959" crc="ce2fe2c3" md5="ce2fe2c34bcdec5a25a92b1eb41473e5" sha1="c5f257e7cf6b1ddc06c9e6faedc8aec5fb1b63a7"/>
+	</game>
+	<game name="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt).zip" size="14962453875" crc="b9a365a7" md5="b9a365a7c7a811e6e73a7d1d55ad96f3" sha1="0906edfac139586bedc5636452558fa94c591c6e"/>
+	</game>
+	<game name="Axiom Verge (USA) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>Axiom Verge (USA) (En,Fr,De,Es,It,Pt)</description>
+		<rom name="Axiom Verge (USA) (En,Fr,De,Es,It,Pt).zip" size="1499056609" crc="2bcdd799" md5="2bcdd799814ad929a98da9ddc5169ff3" sha1="b84b34ccf6a28d6e54c67f2c663aae7122552fd0"/>
+	</game>
+	<game name="Baila Latino (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Baila Latino (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Baila Latino (Europe) (En,Fr,De,Es,It).zip" size="4187250425" crc="86948202" md5="869482028f88a916a19b1234ff19a260" sha1="8624357e05143b46fab18d61467d393c1dc05dd9"/>
+	</game>
+	<game name="Barbie &amp; Her Sisters - Puppy Rescue (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Barbie &amp; Her Sisters - Puppy Rescue (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Barbie &amp; Her Sisters - Puppy Rescue (USA) (En,Fr,Es,Pt).zip" size="2614830254" crc="141e848e" md5="141e848e3095081d35148be7c5281614" sha1="e4315352a15a9a1b3d2aa20beaba40a091f22c0f"/>
+	</game>
+	<game name="Barbie Dreamhouse Party (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Barbie Dreamhouse Party (USA) (En,Fr,Es)</description>
+		<rom name="Barbie Dreamhouse Party (USA) (En,Fr,Es).zip" size="3387240186" crc="491ddc46" md5="491ddc461065faf3db0e02733ca3a331" sha1="1d4980369814a1e4c9ee6fac1cc879844bdd621a"/>
+	</game>
+	<game name="Batman - Arkham City - Armored Edition (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Batman - Arkham City - Armored Edition (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Batman - Arkham City - Armored Edition (USA) (En,Fr,Es,Pt).zip" size="19910599671" crc="0275ccb4" md5="0275ccb445268111dd9efe007895093f" sha1="318620ab5f309f3e302b5d3fdc8077729d5866bb"/>
+	</game>
+	<game name="Batman - Arkham City - Armoured Edition (Europe) (En,Fr,De,Es,It,Ru)">
+		<category>Games</category>
+		<description>Batman - Arkham City - Armoured Edition (Europe) (En,Fr,De,Es,It,Ru)</description>
+		<rom name="Batman - Arkham City - Armoured Edition (Europe) (En,Fr,De,Es,It,Ru).zip" size="19910501388" crc="e45cef97" md5="e45cef9707f47a858c27cc74153631aa" sha1="6d9c8ce721877124a32ed93d07f767377563990b"/>
+	</game>
+	<game name="Batman - Arkham Origins (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Batman - Arkham Origins (USA) (En,Fr,Es)</description>
+		<rom name="Batman - Arkham Origins (USA) (En,Fr,Es).zip" size="14415892612" crc="96adbee1" md5="96adbee1acb85586e5df4467940eab0f" sha1="c176a3b8694439aef1bad7f12115132e6368dd26"/>
+	</game>
+	<game name="Bayonetta (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Bayonetta (USA) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Bayonetta (USA) (En,Ja,Fr,De,Es,It).zip" size="13912758054" crc="0994e851" md5="0994e8511b9a2e35c8edb9fb8d666b27" sha1="d44cdca70b708b763a5385572b5ef0cdf27878ff"/>
+	</game>
+	<game name="Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).zip" size="16610705086" crc="ab6b177e" md5="ab6b177e808ea9488121670dd12f9a8d" sha1="b039283e1fa2192b7144971d83ad87b70fab0655"/>
+	</game>
+	<game name="Ben 10 - Omniverse (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Ben 10 - Omniverse (USA) (En,Fr,Es)</description>
+		<rom name="Ben 10 - Omniverse (USA) (En,Fr,Es).zip" size="3119894598" crc="e05485eb" md5="e05485ebd4c18e904c0dba1c1a6fc2ad" sha1="381a35010d83715d588844ccdc86571f3b815901"/>
+	</game>
+	<game name="Ben 10 - Omniverse 2 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Ben 10 - Omniverse 2 (USA) (En,Fr,Es)</description>
+		<rom name="Ben 10 - Omniverse 2 (USA) (En,Fr,Es).zip" size="3144510030" crc="bcb4fd05" md5="bcb4fd055d4ca457b8c41fc1f8634012" sha1="06aef0cd0466be829e3a89e6093388c598b91de6"/>
+	</game>
+	<game name="Biohazard - Revelations - Unveiled Edition (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Biohazard - Revelations - Unveiled Edition (Japan) (Rev 1)</description>
+		<rom name="Biohazard - Revelations - Unveiled Edition (Japan) (Rev 1).zip" size="14640693742" crc="4386f312" md5="4386f312345d47d0ca5656d5dadd5fe2" sha1="269a70b2ac561d09f2a585f0817bcd49ebf1e85a"/>
+	</game>
+	<game name="Book of Unwritten Tales 2, The (USA) (En,Fr,De,Es,It,Pl)">
+		<category>Games</category>
+		<description>Book of Unwritten Tales 2, The (USA) (En,Fr,De,Es,It,Pl)</description>
+		<rom name="Book of Unwritten Tales 2, The (USA) (En,Fr,De,Es,It,Pl).zip" size="9881725127" crc="b1aef8e8" md5="b1aef8e861c4fad100d92aaaea5502fd" sha1="8e4fdf335bfcb7a985e835ba747499048859c890"/>
+	</game>
+	<game name="Brunswick Pro Bowling (USA)">
+		<category>Games</category>
+		<description>Brunswick Pro Bowling (USA)</description>
+		<rom name="Brunswick Pro Bowling (USA).zip" size="1761877171" crc="bd4a9fea" md5="bd4a9fea0b7a9567370e83057b5883e4" sha1="1ca3eb25ad13d3d7054a0d265ea48351d10ffe71"/>
+	</game>
+	<game name="Cabela's Big Game Hunter - Pro Hunts (USA)">
+		<category>Games</category>
+		<description>Cabela's Big Game Hunter - Pro Hunts (USA)</description>
+		<rom name="Cabela's Big Game Hunter - Pro Hunts (USA).zip" size="4381932620" crc="54bd1603" md5="54bd1603d4c315e6fb9c8c2eecb85966" sha1="cc62ae49699e5a5e0142cec35939c45f75c8eecf"/>
+	</game>
+	<game name="Cabela's Dangerous Hunts 2013 (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Cabela's Dangerous Hunts 2013 (USA) (En,Fr)</description>
+		<rom name="Cabela's Dangerous Hunts 2013 (USA) (En,Fr).zip" size="6548322536" crc="a54d7a3b" md5="a54d7a3b357011c957073c713b27b2d9" sha1="77740a68d0190408640b12bb7c44c5b0485a2349"/>
+	</game>
+	<game name="Call of Duty - Black Ops II (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Call of Duty - Black Ops II (USA) (En,Fr)</description>
+		<rom name="Call of Duty - Black Ops II (USA) (En,Fr).zip" size="20374302861" crc="eb102498" md5="eb10249813a09a881482df0d20b39809" sha1="9ee277dea6ca9dd186713254859b32160863983e"/>
+	</game>
+	<game name="Call of Duty - Ghosts (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Call of Duty - Ghosts (USA) (En,Fr)</description>
+		<rom name="Call of Duty - Ghosts (USA) (En,Fr).zip" size="18256225073" crc="35300009" md5="35300009e7b2f9edff6e832017f646f2" sha1="5e9848acda273a73c3ab056b89dbb2916219e1ce"/>
+	</game>
+	<game name="Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (Rev 1)">
+		<category>Games</category>
+		<description>Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (Rev 1).zip" size="2631057265" crc="0f72a553" md5="0f72a5534b71d583dd47a7af155c52b6" sha1="a786f3553d680db67029e7fae6a4bc2e55d759e1"/>
+	</game>
+	<game name="Cocoto Magic Circus 2 (Europe) (En,Fr,De,Es,It,Nl,Pt)">
+		<category>Games</category>
+		<description>Cocoto Magic Circus 2 (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
+		<rom name="Cocoto Magic Circus 2 (Europe) (En,Fr,De,Es,It,Nl,Pt).zip" size="481058062" crc="83312074" md5="83312074b13d3cefe6cfeabb2180a787" sha1="59146e97f23afaf5f9f44d39f8dd76a429910b2c"/>
+	</game>
+	<game name="DISC, CAT-I RTL JAN '13 USA (USA)">
+		<category>Games</category>
+		<description>DISC, CAT-I RTL JAN '13 USA (USA)</description>
+		<rom name="DISC, CAT-I RTL JAN '13 USA (USA).zip" size="11377996791" crc="35785754" md5="35785754714f559263286050202697a6" sha1="ce7ad4004de26c4d2dbd8975236f117ac5eb76bf"/>
+	</game>
+	<game name="Dairantou Smash Brothers for Wii U (Japan) (Rev 7)">
+		<category>Games</category>
+		<description>Dairantou Smash Brothers for Wii U (Japan) (Rev 7)</description>
+		<rom name="Dairantou Smash Brothers for Wii U (Japan) (Rev 7).zip" size="16373578687" crc="e2b1880b" md5="e2b1880b7217276acbb1a7c3f8df5047" sha1="755b6dbac97d896543e26c828a244707b62779dc"/>
+	</game>
+	<game name="Darksiders - Warmastered Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)">
+		<category>Games</category>
+		<description>Darksiders - Warmastered Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)</description>
+		<rom name="Darksiders - Warmastered Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs).zip" size="13071845335" crc="66a23145" md5="66a23145bcf148dd4b32185e0b536875" sha1="781a5baca3e025029fa681d926ea31957990ae4f"/>
+	</game>
+	<game name="Darksiders II (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Darksiders II (USA) (En,Fr,Es)</description>
+		<rom name="Darksiders II (USA) (En,Fr,Es).zip" size="10134485247" crc="830cabee" md5="830cabee6be43db68ac84c0e0fd27424" sha1="5dde2cd50938ad3dc4adee73808e74d394e0a20b"/>
+	</game>
+	<game name="Demo Update 02-2015 - Smash Bros + Mario Party 10 - 9599F2B3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+		<category>Games</category>
+		<description>Demo Update 02-2015 - Smash Bros + Mario Party 10 - 9599F2B3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+		<rom name="Demo Update 02-2015 - Smash Bros + Mario Party 10 - 9599F2B3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).zip" size="12683153944" crc="f7043907" md5="f7043907cc1c65b5732e335469c56d9c" sha1="76f8c124dd1dcb1a9070e3cd24977bf6cd4a1045"/>
+	</game>
+	<game name="Demo Update 07.12.15 - Mario Tennis - Ultra Smash - 5D107B28 (Europe)">
+		<category>Games</category>
+		<description>Demo Update 07.12.15 - Mario Tennis - Ultra Smash - 5D107B28 (Europe)</description>
+		<rom name="Demo Update 07.12.15 - Mario Tennis - Ultra Smash - 5D107B28 (Europe).zip" size="785648208" crc="07464725" md5="0746472573fcf039a0f151568a67220e" sha1="32166fe870776009cb1c7885edf050085c6ab44f"/>
+	</game>
+	<game name="Demo Update 08.12.15 - Mario Tennis - Ultra Smash - 34625865 (France)">
+		<category>Games</category>
+		<description>Demo Update 08.12.15 - Mario Tennis - Ultra Smash - 34625865 (France)</description>
+		<rom name="Demo Update 08.12.15 - Mario Tennis - Ultra Smash - 34625865 (France).zip" size="1340406376" crc="5593f112" md5="5593f1124aff3edcbeeec9eab4991b55" sha1="3e8ae7bc62f9a4411aa35099fe010ce9ca178b29"/>
+	</game>
+	<game name="Demo Update 09-2014 - Captain Toad - 21174F94 (Germany)">
+		<category>Games</category>
+		<description>Demo Update 09-2014 - Captain Toad - 21174F94 (Germany)</description>
+		<rom name="Demo Update 09-2014 - Captain Toad - 21174F94 (Germany).zip" size="1853153369" crc="9a925459" md5="9a925459436fca605a057742b39c8a84" sha1="78a3952dd4506686df001c09e08c5e929f7be776"/>
+	</game>
+	<game name="Demo Update 09-2014 - Hyrule Warriors - 12BFD3F7 (Germany)">
+		<category>Games</category>
+		<description>Demo Update 09-2014 - Hyrule Warriors - 12BFD3F7 (Germany)</description>
+		<rom name="Demo Update 09-2014 - Hyrule Warriors - 12BFD3F7 (Germany).zip" size="3038168708" crc="202bec29" md5="202bec2995c17048ddb44f7c95efade7" sha1="a41cdd594afd09b04c1d7d9a3e5357ae5d5b56de"/>
+	</game>
+	<game name="Demo Update 30.06.16 - Mario &amp; Sonic at the Rio 2016 Olympic Games - 00A62FC8 (France)">
+		<category>Games</category>
+		<description>Demo Update 30.06.16 - Mario &amp; Sonic at the Rio 2016 Olympic Games - 00A62FC8 (France)</description>
+		<rom name="Demo Update 30.06.16 - Mario &amp; Sonic at the Rio 2016 Olympic Games - 00A62FC8 (France).zip" size="2490174012" crc="fdbcbf77" md5="fdbcbf772625693536a1b808d81afda2" sha1="9f3bef50ada7fa0b16e40aa0f8206035a40854a3"/>
+	</game>
+	<game name="Demo Update 30.06.16 - Mario &amp; Sonic at the Rio 2016 Olympic Games - E903B956 (Europe)">
+		<category>Games</category>
+		<description>Demo Update 30.06.16 - Mario &amp; Sonic at the Rio 2016 Olympic Games - E903B956 (Europe)</description>
+		<rom name="Demo Update 30.06.16 - Mario &amp; Sonic at the Rio 2016 Olympic Games - E903B956 (Europe).zip" size="2490305132" crc="2e79ee8d" md5="2e79ee8d3bc22866058e3f87742135d4" sha1="beffca3a5c46ce81c343ba83ce9c9e75b696e588"/>
+	</game>
+	<game name="Deus Ex - Human Revolution - Director's Cut (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Deus Ex - Human Revolution - Director's Cut (USA) (En,Fr,Es)</description>
+		<rom name="Deus Ex - Human Revolution - Director's Cut (USA) (En,Fr,Es).zip" size="15530789351" crc="8ab944e7" md5="8ab944e7d410a2366c39cfdbb482594f" sha1="c22f94da69d128000495f8cdafaf70688faa26f1"/>
+	</game>
+	<game name="Devil's Third (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Devil's Third (USA) (En,Fr)</description>
+		<rom name="Devil's Third (USA) (En,Fr).zip" size="15908864159" crc="0aa42d92" md5="0aa42d9200b65b736d6222155e8fbeb8" sha1="d28b4f5393d4412afdf160e21098ce7c8a8ba3be"/>
+	</game>
+	<game name="Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).zip" size="1909220452" crc="e74b1f02" md5="e74b1f02dead81fc2886d873191acf13" sha1="d5889aea397cb8da02a7bf30b547d78a5c1cdb1a"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - Futatsu no Chikara (Japan)">
+		<category>Games</category>
+		<description>Disney Epic Mickey 2 - Futatsu no Chikara (Japan)</description>
+		<rom name="Disney Epic Mickey 2 - Futatsu no Chikara (Japan).zip" size="8607378780" crc="505f2dd2" md5="505f2dd2bc80901861ba1b9971ddeeb6" sha1="3437c449288ff8db9db04ce9d347780d6fed3483"/>
+	</game>
+	<game name="Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es)</description>
+		<rom name="Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).zip" size="7978291753" crc="e7998754" md5="e7998754835af580aecbffa69db015e9" sha1="625fe4e0e1081df4a8a9cde1e32a34e3e5a0e7b1"/>
+	</game>
+	<game name="Disney Infinity (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Disney Infinity (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Disney Infinity (USA) (En,Fr,Es,Pt).zip" size="10910337785" crc="90586ddc" md5="90586ddc921a403bd9e4706fb8399a08" sha1="49793288e108a63856a9480d30f23643a66bfc52"/>
+	</game>
+	<game name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)">
+		<category>Games</category>
+		<description>Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)</description>
+		<rom name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 2).zip" size="13529246117" crc="c99d0363" md5="c99d03636f23fc8fde5abbd10c3c41fb" sha1="0af772d2ae138b1714568c59dad367e37db47a6c"/>
+	</game>
+	<game name="Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt) (Rev 1)">
+		<category>Games</category>
+		<description>Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt) (Rev 1)</description>
+		<rom name="Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt) (Rev 1).zip" size="12500988545" crc="c15ff449" md5="c15ff449ce8857c4c4564bb2a413e75f" sha1="74c2ac5270d19d26e555b2366a34a42b76e0e9e8"/>
+	</game>
+	<game name="Disney Infinity 3.0 (Japan)">
+		<category>Games</category>
+		<description>Disney Infinity 3.0 (Japan)</description>
+		<rom name="Disney Infinity 3.0 (Japan).zip" size="10921616190" crc="b0f3924f" md5="b0f3924f880e6c2857aa1eeed521b9a1" sha1="bae2ec27ab4e9a90a4206c357c986085e859acc8"/>
+	</game>
+	<game name="Disney Infinity 3.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Games</category>
+		<description>Disney Infinity 3.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Disney Infinity 3.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl).zip" size="13683927811" crc="df177918" md5="df1779185c711606c4b4df5a0afa69ff" sha1="6f8e34bae7930ee2d2c47c69b02815e62d277474"/>
+	</game>
+	<game name="Disney Infinity 3.0 Edition (USA) (En,Fr,Es) (Rev 2)">
+		<category>Games</category>
+		<description>Disney Infinity 3.0 Edition (USA) (En,Fr,Es) (Rev 2)</description>
+		<rom name="Disney Infinity 3.0 Edition (USA) (En,Fr,Es) (Rev 2).zip" size="12265242013" crc="a5f858e1" md5="a5f858e1992f3370835e99e00fc2998a" sha1="79b24a3ad2c397907581be4bcfb39f9cf2e0ef46"/>
+	</game>
+	<game name="Disney Phineas and Ferb - Quest for Cool Stuff (USA)">
+		<category>Games</category>
+		<description>Disney Phineas and Ferb - Quest for Cool Stuff (USA)</description>
+		<rom name="Disney Phineas and Ferb - Quest for Cool Stuff (USA).zip" size="1714180369" crc="6c546746" md5="6c546746681bf0dd21202437e43f6bb6" sha1="ac2b1875ba51f2f3d552b73007ed748470950ca8"/>
+	</game>
+	<game name="Disney Planes (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Disney Planes (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Disney Planes (USA) (En,Fr,Es,Pt).zip" size="3474861434" crc="0331140a" md5="0331140afcff49bbbf56f6ba3201930b" sha1="15ff6bfa1b254f94a9bd456a545d2dced78714b6"/>
+	</game>
+	<game name="Disney Planes - Fire &amp; Rescue (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Disney Planes - Fire &amp; Rescue (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Disney Planes - Fire &amp; Rescue (USA) (En,Fr,Es,Pt).zip" size="1362524206" crc="7d773d9e" md5="7d773d9efee29c2ad0748dedcdae865b" sha1="d5d79cd0ec360aa73ce61bd7f81ebf17975f8a58"/>
+	</game>
+	<game name="Disney-Pixar Cars 3 - Driven to Win (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Disney-Pixar Cars 3 - Driven to Win (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Disney-Pixar Cars 3 - Driven to Win (USA) (En,Fr,Es,Pt).zip" size="4101017087" crc="ad480672" md5="ad480672f4b59484f8377ac6159795c4" sha1="11a40c2eeef2367025d13d93101fae71a5a2cd72"/>
+	</game>
+	<game name="Donkey Kong - Tropical Freeze (Japan) (Rev 3)">
+		<category>Games</category>
+		<description>Donkey Kong - Tropical Freeze (Japan) (Rev 3)</description>
+		<rom name="Donkey Kong - Tropical Freeze (Japan) (Rev 3).zip" size="12680624148" crc="f1a4956f" md5="f1a4956f5484e444af422cf2f9d6a84c" sha1="dba3260754cf76ab37a7f9cb99987a644827d8c0"/>
+	</game>
+	<game name="Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (Rev 1)">
+		<category>Games</category>
+		<description>Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (Rev 1).zip" size="12714349165" crc="7cea6704" md5="7cea670444c5f9a57d9db61b651479f3" sha1="29cc728149bdcc4a4a6a7e97ef16f1c278e6663e"/>
+	</game>
+	<game name="Doubutsu no Mori - Amiibo Festival (Japan)">
+		<category>Games</category>
+		<description>Doubutsu no Mori - Amiibo Festival (Japan)</description>
+		<rom name="Doubutsu no Mori - Amiibo Festival (Japan).zip" size="2514790717" crc="83e89d11" md5="83e89d11aef408a3f854807f349de3b7" sha1="f5026a7c806e403c17b1262a36983fb4dbe5ff3f"/>
+	</game>
+	<game name="Dragon Quest X - 5000-nen no Tabiji - Haruka naru Kokyou e Online (Japan)">
+		<category>Games</category>
+		<description>Dragon Quest X - 5000-nen no Tabiji - Haruka naru Kokyou e Online (Japan)</description>
+		<rom name="Dragon Quest X - 5000-nen no Tabiji - Haruka naru Kokyou e Online (Japan).zip" size="12977902055" crc="cd0688c9" md5="cd0688c9c84e81cdf0fc254b3941fbb4" sha1="0efb3dcd4455a4f12e8a0c985544f7e1d41fd123"/>
+	</game>
+	<game name="Dragon Quest X - All in One Package (Japan) (BTPJ)">
+		<category>Games</category>
+		<description>Dragon Quest X - All in One Package (Japan) (BTPJ)</description>
+		<rom name="Dragon Quest X - All in One Package (Japan) (BTPJ).zip" size="7889934976" crc="8901f5e8" md5="8901f5e847bfb261455e334312e5a0c1" sha1="9d0fa41857f5caaa05d49dbda53f7487f7dd22ca"/>
+	</game>
+	<game name="Dragon Quest X - All in One Package Version 1-Version 4 (Japan)">
+		<category>Games</category>
+		<description>Dragon Quest X - All in One Package Version 1-Version 4 (Japan)</description>
+		<rom name="Dragon Quest X - All in One Package Version 1-Version 4 (Japan).zip" size="14250135466" crc="27b218e9" md5="27b218e93fcdfdf5c5fa72f7b00f1474" sha1="b730c6c2001893de775c0bd8459c1e30198bbac6"/>
+	</game>
+	<game name="Dragon Quest X - Inishie no Ryuu no Denshou Online (Japan)">
+		<category>Games</category>
+		<description>Dragon Quest X - Inishie no Ryuu no Denshou Online (Japan)</description>
+		<rom name="Dragon Quest X - Inishie no Ryuu no Denshou Online (Japan).zip" size="10181558335" crc="faac5d1c" md5="faac5d1cf88624463ff5616c1c47959a" sha1="da9872c58ab6706caf23624fc86cf6f2fd593b0e"/>
+	</game>
+	<game name="Dragon Quest X - Mezameshi Itsutsu no Shuzoku Online (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Dragon Quest X - Mezameshi Itsutsu no Shuzoku Online (Japan) (Rev 1)</description>
+		<rom name="Dragon Quest X - Mezameshi Itsutsu no Shuzoku Online (Japan) (Rev 1).zip" size="7585726414" crc="7de161d3" md5="7de161d3813e389205d292d172834333" sha1="551dfd444c805af507ed8592d5c62b5d8608eb6b"/>
+	</game>
+	<game name="Dragon Quest X - Nemureru Yuusha to Michibiki no Meiyuu Online (Japan) (Rev 10)">
+		<category>Games</category>
+		<description>Dragon Quest X - Nemureru Yuusha to Michibiki no Meiyuu Online (Japan) (Rev 10)</description>
+		<rom name="Dragon Quest X - Nemureru Yuusha to Michibiki no Meiyuu Online (Japan) (Rev 10).zip" size="7889935037" crc="307eb779" md5="307eb77977cf06360e616f399dd006a7" sha1="7235b40307c6acfb1f68d6e00bb6bba432718a62"/>
+	</game>
+	<game name="DreamWorks How to Train Your Dragon 2 (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>DreamWorks How to Train Your Dragon 2 (USA) (En,Fr,Es,Pt)</description>
+		<rom name="DreamWorks How to Train Your Dragon 2 (USA) (En,Fr,Es,Pt).zip" size="1576968067" crc="3dca25da" md5="3dca25da6961a715c219ce4b5b2a2b96" sha1="e2f5daf454f56c27ffad3ded0c8ee586734fb10e"/>
+	</game>
+	<game name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA) (En,Fr,Es,Pt)</description>
+		<rom name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA) (En,Fr,Es,Pt).zip" size="2795707524" crc="a83d4cfa" md5="a83d4cfa011a4ba8d7c6386f71477c54" sha1="064f1a656a9d10f8953aa871ab9559020e0adb95"/>
+	</game>
+	<game name="DreamWorks Penguins of Madagascar (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>DreamWorks Penguins of Madagascar (USA) (En,Fr,Es,Pt)</description>
+		<rom name="DreamWorks Penguins of Madagascar (USA) (En,Fr,Es,Pt).zip" size="1598209210" crc="62c772aa" md5="62c772aaa045e8698733365bf939fec3" sha1="75ca58def9474e86938a0e021c471cb495b69ba7"/>
+	</game>
+	<game name="DreamWorks Rise of the Guardians (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>DreamWorks Rise of the Guardians (USA) (En,Fr,Es)</description>
+		<rom name="DreamWorks Rise of the Guardians (USA) (En,Fr,Es).zip" size="3595390804" crc="4891bb2f" md5="4891bb2fcc3589a0e1963ecf29e40acc" sha1="7e0e172d612b80d91449f13a7255639161bbe9b3"/>
+	</game>
+	<game name="DreamWorks The Croods - Prehistoric Party! (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>DreamWorks The Croods - Prehistoric Party! (USA) (En,Fr,Es)</description>
+		<rom name="DreamWorks The Croods - Prehistoric Party! (USA) (En,Fr,Es).zip" size="1564808156" crc="c47efdae" md5="c47efdaeb59aa6385f75ebcbeeb70d11" sha1="2b10d1a6f78ba20e0a2585224085c760b47ef8f7"/>
+	</game>
+	<game name="DreamWorks Turbo - Super Stunt Squad (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>DreamWorks Turbo - Super Stunt Squad (USA) (En,Fr,Es)</description>
+		<rom name="DreamWorks Turbo - Super Stunt Squad (USA) (En,Fr,Es).zip" size="1602080614" crc="aa7f5091" md5="aa7f5091a7aa1ec7c8665ccc6a02cda6" sha1="5f41e794eb7b5b51664766b6074da00a6b6b0707"/>
+	</game>
+	<game name="ESPN Sports Connection (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>ESPN Sports Connection (USA) (En,Fr,Es,Pt)</description>
+		<rom name="ESPN Sports Connection (USA) (En,Fr,Es,Pt).zip" size="1819966451" crc="eb29a013" md5="eb29a01390aab929ca12976c713b4e3c" sha1="9b4e3861ce26d9f73664a629e321f77dac8214d0"/>
+	</game>
+	<game name="F1 Race Stars - Powered Up Edition (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>F1 Race Stars - Powered Up Edition (Japan) (Rev 1)</description>
+		<rom name="F1 Race Stars - Powered Up Edition (Japan) (Rev 1).zip" size="3682391924" crc="7b088344" md5="7b088344029e361d4857ddeea606c40c" sha1="3d2dd0e227dc3060797ef7f82a5796f93363064c"/>
+	</game>
+	<game name="FIFA 13 (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Games</category>
+		<description>FIFA 13 (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="FIFA 13 (Europe) (En,Fr,De,Es,It,Nl).zip" size="8789540050" crc="94cabd02" md5="94cabd02ee97b22b82a9a05f2030023f" sha1="d6cdec49db06d3467df8ee3bc1185e1291095f7a"/>
+	</game>
+	<game name="FIFA 13 - World Class Soccer (Japan)">
+		<category>Games</category>
+		<description>FIFA 13 - World Class Soccer (Japan)</description>
+		<rom name="FIFA 13 - World Class Soccer (Japan).zip" size="7633345525" crc="84687e9c" md5="84687e9c1efa0d2e7271c2407ad2540b" sha1="c99758f296a5e701a6d0e5e19f399e1eda2133a7"/>
+	</game>
+	<game name="FIFA Soccer 13 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>FIFA Soccer 13 (USA) (En,Fr,Es)</description>
+		<rom name="FIFA Soccer 13 (USA) (En,Fr,Es).zip" size="7951928574" crc="9053e911" md5="9053e9112b71825b66facbf61551a31c" sha1="4e8ffae13eff0126ccb6e336664796c32bd79861"/>
+	</game>
+	<game name="Famicom Remix 1 + 2 (Japan)">
+		<category>Games</category>
+		<description>Famicom Remix 1 + 2 (Japan)</description>
+		<rom name="Famicom Remix 1 + 2 (Japan).zip" size="1195588474" crc="0c878d83" md5="0c878d839afd0a2728e557bced668ee6" sha1="65801a2dda896eb41f4331671e91c48d16366e55"/>
+	</game>
+	<game name="Family Party - 30 Great Games - Obstacle Arcade (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Family Party - 30 Great Games - Obstacle Arcade (USA) (En,Fr,Es)</description>
+		<rom name="Family Party - 30 Great Games - Obstacle Arcade (USA) (En,Fr,Es).zip" size="790690619" crc="414151d6" md5="414151d665c188cfbc64c7665c8ed24b" sha1="d68cb18574ee15ddedf7541c242896718258f391"/>
+	</game>
+	<game name="Fast &amp; Furious - Showdown (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Fast &amp; Furious - Showdown (USA) (En,Fr)</description>
+		<rom name="Fast &amp; Furious - Showdown (USA) (En,Fr).zip" size="2081971830" crc="a0d425eb" md5="a0d425eb7d468aaf828aeabba16bee83" sha1="697825a2d950f7bf782cb454dcc2bf0f493d630b"/>
+	</game>
+	<game name="Fast Racing Neo (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Fast Racing Neo (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Fast Racing Neo (Europe) (En,Fr,De,Es,It).zip" size="2096582372" crc="73e4b3cc" md5="73e4b3ccb5382b7e937dce0ae8337fac" sha1="b37d2578f184cc070856dac5f8ac436c4aac2547"/>
+	</game>
+	<game name="Finding Teddy II - Definitive Edition (Europe) (En,Fr,De,Es,It,Pt,Ru)">
+		<category>Games</category>
+		<description>Finding Teddy II - Definitive Edition (Europe) (En,Fr,De,Es,It,Pt,Ru)</description>
+		<rom name="Finding Teddy II - Definitive Edition (Europe) (En,Fr,De,Es,It,Pt,Ru).zip" size="1762528409" crc="aded815f" md5="aded815f98a7e56909fe0ed65810afe5" sha1="6ae13019115bcf54de50dacfc8242ae0c7c573e1"/>
+	</game>
+	<game name="Fit Music for Wii U (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Fit Music for Wii U (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Fit Music for Wii U (Europe) (En,Fr,De,Es,It).zip" size="12344826869" crc="4fabaf67" md5="4fabaf679657834b537bf45e5328439c" sha1="946a4136a45b1ba2948be97f36874b5c702c25b5"/>
+	</game>
+	<game name="Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! (Japan)">
+		<category>Games</category>
+		<description>Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! (Japan)</description>
+		<rom name="Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! (Japan).zip" size="2681145888" crc="a0265af7" md5="a0265af7c957ff88ff12ba7dabf91259" sha1="aa127f8c4f5a8006d4f19a24840fe11803ec1254"/>
+	</game>
+	<game name="Funky Barn (USA) (En,Fr,Es) (Rev 1)">
+		<category>Games</category>
+		<description>Funky Barn (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Funky Barn (USA) (En,Fr,Es) (Rev 1).zip" size="592016990" crc="87e6a7bd" md5="87e6a7bd0332cbf4e19c7600327a2920" sha1="9fd43adb222a7946ed465d8795e8edc0bd94c227"/>
+	</game>
+	<game name="Game &amp; Wario (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Game &amp; Wario (USA) (En,Fr,Es)</description>
+		<rom name="Game &amp; Wario (USA) (En,Fr,Es).zip" size="4509937094" crc="a2759dc3" md5="a2759dc3e28b2f180a45fab8619d249b" sha1="21bfd42ba656e39be49dc29763a17ce92cdfd8ae"/>
+	</game>
+	<game name="Game Party Champions (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Game Party Champions (USA) (En,Fr,Es)</description>
+		<rom name="Game Party Champions (USA) (En,Fr,Es).zip" size="1897555083" crc="16892ebd" md5="16892ebdfa3e1a9274f16b6fc54e0917" sha1="c24a0f57204714e017ec61aaf09dc5ed5b61cc7a"/>
+	</game>
+	<game name="Gen'ei Ibunroku FE (Japan)">
+		<category>Games</category>
+		<description>Gen'ei Ibunroku FE (Japan)</description>
+		<rom name="Gen'ei Ibunroku FE (Japan).zip" size="14816034243" crc="ca40e7bb" md5="ca40e7bb613a6ebeb51e6f83410ea573" sha1="f920dcd08165378ab126a52f6ecd583baa80f055"/>
+	</game>
+	<game name="Giana Sisters - Twisted Dreams - Director's Cut (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Giana Sisters - Twisted Dreams - Director's Cut (USA) (En,Fr,Es)</description>
+		<rom name="Giana Sisters - Twisted Dreams - Director's Cut (USA) (En,Fr,Es).zip" size="17122425951" crc="99b0205f" md5="99b0205f81f1c3d6c8117f4aa53830b0" sha1="469dbcce6e4b4b0f90a9d64b7d0a373255f7f4d0"/>
+	</game>
+	<game name="Ginsei Shougi - Kyoutendo Toufuu Raijin (Japan)">
+		<category>Games</category>
+		<description>Ginsei Shougi - Kyoutendo Toufuu Raijin (Japan)</description>
+		<rom name="Ginsei Shougi - Kyoutendo Toufuu Raijin (Japan).zip" size="1624370131" crc="0e65a139" md5="0e65a13900d5b0739f10a372a1a41f20" sha1="2d8778746ad82e24d93444dcfd6e9703c590cc53"/>
+	</game>
+	<game name="Gotouchi Tetsudou - Gotouchi Chara to Nippon Zenkoku no Tabi (Japan)">
+		<category>Games</category>
+		<description>Gotouchi Tetsudou - Gotouchi Chara to Nippon Zenkoku no Tabi (Japan)</description>
+		<rom name="Gotouchi Tetsudou - Gotouchi Chara to Nippon Zenkoku no Tabi (Japan).zip" size="3121769272" crc="9a1771f7" md5="9a1771f7438c0d69c9adc7d67819000b" sha1="231c60345204094d423a2ed05ba06fd300822414"/>
+	</game>
+	<game name="Guitar Hero Live (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Guitar Hero Live (USA) (En,Fr,Es)</description>
+		<rom name="Guitar Hero Live (USA) (En,Fr,Es).zip" size="19470311764" crc="d1fdc2fa" md5="d1fdc2fa7796de462a3db7286859d48a" sha1="15e641658202bd3e4129fe139643ca40fc74e8f1"/>
+	</game>
+	<game name="Hello Kitty Kruisers (USA)">
+		<category>Games</category>
+		<description>Hello Kitty Kruisers (USA)</description>
+		<rom name="Hello Kitty Kruisers (USA).zip" size="1935347324" crc="2aa25aa8" md5="2aa25aa855daca9be3cab56711e71440" sha1="d7d4fe4f9c9fbf2757e226713c0ba81d510664b7"/>
+	</game>
+	<game name="Hot Wheels - World's Best Driver (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Hot Wheels - World's Best Driver (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Hot Wheels - World's Best Driver (USA) (En,Fr,Es,Pt).zip" size="4710940321" crc="8adfd5a7" md5="8adfd5a737b49639e04883ad633e96a2" sha1="c08e9d3a82559cedeedd5d3a43e1e1bd082341c5"/>
+	</game>
+	<game name="Hunter's Trophy 2 - Europa (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Hunter's Trophy 2 - Europa (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Hunter's Trophy 2 - Europa (Europe) (En,Fr,De,Es,It).zip" size="2838813200" crc="e196de0a" md5="e196de0ac2ef164a40ba10f2db1a682a" sha1="2925093cc31ca46d626624dca0e0128f54212b65"/>
+	</game>
+	<game name="Hyrule Warriors (USA) (En,Fr,Es) (Rev 1)">
+		<category>Games</category>
+		<description>Hyrule Warriors (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Hyrule Warriors (USA) (En,Fr,Es) (Rev 1).zip" size="8773125370" crc="303bc909" md5="303bc909b2b9c3121adb80534ca9a999" sha1="b23b39728408b3dc70d5838513f6bc28a51181d4"/>
+	</game>
+	<game name="Injustice - Gods Among Us (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Injustice - Gods Among Us (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Injustice - Gods Among Us (USA) (En,Fr,Es,Pt).zip" size="9217972432" crc="878c07b2" md5="878c07b2ae4020f59d3695e71d68dfe1" sha1="2e914091d70a7392b51eb860970bf30bf2c164b8"/>
+	</game>
+	<game name="Injustice - Hero no Gekitotsu (Japan)">
+		<category>Games</category>
+		<description>Injustice - Hero no Gekitotsu (Japan)</description>
+		<rom name="Injustice - Hero no Gekitotsu (Japan).zip" size="8464341177" crc="2f204c61" md5="2f204c618479c863493d4cb1ca3d4241" sha1="c5fd47e3e6c81c278bd51168ff2f4e86327293f8"/>
+	</game>
+	<game name="Jeopardy! (USA)">
+		<category>Games</category>
+		<description>Jeopardy! (USA)</description>
+		<rom name="Jeopardy! (USA).zip" size="1950590140" crc="0da0c1fe" md5="0da0c1fe67e662b47a7c47713210f872" sha1="580ca4be721488223fc5009c8680387767183df0"/>
+	</game>
+	<game name="Jett Tailfin (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Jett Tailfin (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Jett Tailfin (Europe) (En,Fr,De,Es,It).zip" size="3181026032" crc="a9bc5bd9" md5="a9bc5bd9ca0e320cdba5f9d8b8b8bf2d" sha1="4ef8d19d4495c8b5453cb7637d487f0b1518db00"/>
+	</game>
+	<game name="Jikkuri Egokoro Kyoushitsu (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Jikkuri Egokoro Kyoushitsu (Japan) (Rev 1)</description>
+		<rom name="Jikkuri Egokoro Kyoushitsu (Japan) (Rev 1).zip" size="6467849162" crc="f239189c" md5="f239189c7f63fb9fbd40adca9fe138d6" sha1="5aff6af137f1938168a4fea5b1440f4862c00c30"/>
+	</game>
+	<game name="Just Dance - Disney Party 2 (USA) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>Just Dance - Disney Party 2 (USA) (En,Fr,De,Es,It,Pt)</description>
+		<rom name="Just Dance - Disney Party 2 (USA) (En,Fr,De,Es,It,Pt).zip" size="6945116639" crc="2c0c6f95" md5="2c0c6f95888ec7f4590c3b1615c2e805" sha1="e28b3d25ea923ad76c523ca2031421bb5acf27d7"/>
+	</game>
+	<game name="Just Dance 2014 (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Just Dance 2014 (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Just Dance 2014 (USA) (En,Fr,Es,Pt).zip" size="14753389475" crc="e0961c7d" md5="e0961c7df91b11481c25bab869bfdeff" sha1="735f08231cbc6b74d0b03335a45b1ba39ba06e99"/>
+	</game>
+	<game name="Just Dance 2015 (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Just Dance 2015 (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Just Dance 2015 (USA) (En,Fr,Es,Pt).zip" size="11656854583" crc="4c216ece" md5="4c216eceb905048ef11c0f43c00c0ce2" sha1="4d28891f4ba4951d1f644041d20a45c7f066d7ac"/>
+	</game>
+	<game name="Just Dance 2016 (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Just Dance 2016 (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Just Dance 2016 (USA) (En,Fr,Es,Pt).zip" size="17341254164" crc="b4319247" md5="b4319247672f255cfccff68733914f5f" sha1="d75bcc156af51ba33c124cc6c3d823dfb7a8498a"/>
+	</game>
+	<game name="Just Dance 2017 (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Just Dance 2017 (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Just Dance 2017 (USA) (En,Fr,Es,Pt).zip" size="15114094415" crc="0194e726" md5="0194e726154d59a78e27e3468f5e00ad" sha1="c85d93579707a9421b5f4e8fa0e1c8d795e5ea7f"/>
+	</game>
+	<game name="Just Dance 2018 (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Just Dance 2018 (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Just Dance 2018 (USA) (En,Fr,Es,Pt).zip" size="16975470116" crc="03b80b0c" md5="03b80b0c7aa0c4375e9769f6e14e3cbd" sha1="c3ac00216c8e2d4a28d47454900e0ebbefdcf1e0"/>
+	</game>
+	<game name="Just Dance 2019 (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Just Dance 2019 (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Just Dance 2019 (USA) (En,Fr,Es,Pt).zip" size="17397045000" crc="7568cc2d" md5="7568cc2d845a3504ee9cca6d988f53c0" sha1="b95b4698974e09e5d2b30c94e61188f110fa8e48"/>
+	</game>
+	<game name="Just Dance 4 (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Just Dance 4 (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Just Dance 4 (USA) (En,Fr,Es,Pt).zip" size="16115371761" crc="7f9e6e9f" md5="7f9e6e9fb42f94207d563e34fe96dd7d" sha1="cc88cf6ebf67404515f93112ac95f0c49d800bdf"/>
+	</game>
+	<game name="Just Dance Kids 2014 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Just Dance Kids 2014 (USA) (En,Fr,Es)</description>
+		<rom name="Just Dance Kids 2014 (USA) (En,Fr,Es).zip" size="7039617515" crc="2029500e" md5="2029500e2472772b21bb0e78686c70bf" sha1="7df219107a406d6f424ee7cacdd37b06d1f86ea0"/>
+	</game>
+	<game name="Just Dance Wii U (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Just Dance Wii U (Japan) (Rev 1)</description>
+		<rom name="Just Dance Wii U (Japan) (Rev 1).zip" size="9510054959" crc="e74d39f7" md5="e74d39f722cdfc848536095449020acc" sha1="68310752d331f059713f6b4892ef7a6d96d91e3d"/>
+	</game>
+	<game name="Kamen Rider - Battride War II (Japan)">
+		<category>Games</category>
+		<description>Kamen Rider - Battride War II (Japan)</description>
+		<rom name="Kamen Rider - Battride War II (Japan).zip" size="4528465716" crc="07c2d8f2" md5="07c2d8f2cd92ce7a5088c806f56d7531" sha1="fa0f5709180577e63dba68bf2d02f41f66c69eb8"/>
+	</game>
+	<game name="Kamen Rider - Battride War II - Premium TV &amp; Movie Sound Edition (Japan)">
+		<category>Games</category>
+		<description>Kamen Rider - Battride War II - Premium TV &amp; Movie Sound Edition (Japan)</description>
+		<rom name="Kamen Rider - Battride War II - Premium TV &amp; Movie Sound Edition (Japan).zip" size="4799157529" crc="43a6077d" md5="43a6077d1413d971a13a1a640e83cf6a" sha1="03726cb88dc4c3b2ddb1addf27760b4ab01df1dc"/>
+	</game>
+	<game name="Kamen Rider Summonride! (Japan)">
+		<category>Games</category>
+		<description>Kamen Rider Summonride! (Japan)</description>
+		<rom name="Kamen Rider Summonride! (Japan).zip" size="3135827961" crc="9fc9093b" md5="9fc9093b36f00216a2026c8fcdc85d40" sha1="009bac3ee521ea07eb119c92ba6b71e2d21e6cc9"/>
+	</game>
+	<game name="Kirby and the Rainbow Curse (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Kirby and the Rainbow Curse (USA) (En,Fr,Es)</description>
+		<rom name="Kirby and the Rainbow Curse (USA) (En,Fr,Es).zip" size="4320767816" crc="41533207" md5="4153320773979a759bb6303def0cc98e" sha1="a6f9ead6b913e11c6ad4cc9de5bab6d486f02c74"/>
+	</game>
+	<game name="Kirby and the Rainbow Paintbrush (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Kirby and the Rainbow Paintbrush (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Kirby and the Rainbow Paintbrush (Europe) (En,Fr,De,Es,It).zip" size="4423012647" crc="65befb78" md5="65befb78213005f7a702844390ae2422" sha1="bb5e058e6df0ccbf64ce5ebc76ff37a5292dc383"/>
+	</game>
+	<game name="LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt)</description>
+		<rom name="LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).zip" size="4835405042" crc="39e7d3c9" md5="39e7d3c9a8aea78dea08bdc14cbb7e78" sha1="7b6ed2f09c98b7ecf12ebef7bde8caab99bb6fbf"/>
+	</game>
+	<game name="LEGO Batman 3 - Beyond Gotham (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>LEGO Batman 3 - Beyond Gotham (USA) (En,Fr,Es,Pt)</description>
+		<rom name="LEGO Batman 3 - Beyond Gotham (USA) (En,Fr,Es,Pt).zip" size="8677670142" crc="7f12c64a" md5="7f12c64a7420a781af6f09146991cde4" sha1="621befdc6b7b513a8d44c00249ef1ee8614360b2"/>
+	</game>
+	<game name="LEGO Batman 3 - The Game - Gotham kara Uchuu e (Japan)">
+		<category>Games</category>
+		<description>LEGO Batman 3 - The Game - Gotham kara Uchuu e (Japan)</description>
+		<rom name="LEGO Batman 3 - The Game - Gotham kara Uchuu e (Japan).zip" size="7745558915" crc="053eafff" md5="053eafffac8824899b2ec0cfaed274ec" sha1="7bab643e7c53462d8f056d2cf6d175888360f6bd"/>
+	</game>
+	<game name="LEGO City Undercover (USA) (En,Fr,Es) (Rev 1)">
+		<category>Games</category>
+		<description>LEGO City Undercover (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="LEGO City Undercover (USA) (En,Fr,Es) (Rev 1).zip" size="21240883299" crc="6fde3054" md5="6fde30546aa462fb5dc8bf70656103dc" sha1="3ca627d3a60bc7ce300c3d13dd37db5f94270f96"/>
+	</game>
+	<game name="LEGO Dimensions (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>LEGO Dimensions (USA) (En,Fr,Es)</description>
+		<rom name="LEGO Dimensions (USA) (En,Fr,Es).zip" size="14520789200" crc="63e19418" md5="63e194183cb78cb50cacea0a4745f114" sha1="8844d0cda9d09d9bb21a4904b263c09ddcdb7fe3"/>
+	</game>
+	<game name="LEGO Jurassic World (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>LEGO Jurassic World (USA) (En,Fr,Es,Pt)</description>
+		<rom name="LEGO Jurassic World (USA) (En,Fr,Es,Pt).zip" size="8407962305" crc="48690042" md5="48690042e048697406d661c5ab979b45" sha1="ee19fd0c6327fc6d6938f40e867aba23ae7e3164"/>
+	</game>
+	<game name="LEGO Marvel Avengers (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>LEGO Marvel Avengers (USA) (En,Fr,Es,Pt)</description>
+		<rom name="LEGO Marvel Avengers (USA) (En,Fr,Es,Pt).zip" size="8573400016" crc="27e245ba" md5="27e245ba227832baed98c9121d3926ed" sha1="fd23e07c9ef2132922ea95b0ee81525e8cb29c49"/>
+	</game>
+	<game name="LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt)</description>
+		<rom name="LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).zip" size="7108160164" crc="e80f2b8e" md5="e80f2b8eefc4c7b1d7013927a528bdcc" sha1="fe73a9299b7b03ea1320b11cbbe5d93da6c705a3"/>
+	</game>
+	<game name="LEGO Marvel Super Heroes - The Game (Japan)">
+		<category>Games</category>
+		<description>LEGO Marvel Super Heroes - The Game (Japan)</description>
+		<rom name="LEGO Marvel Super Heroes - The Game (Japan).zip" size="10997105768" crc="41b7f0f2" md5="41b7f0f25d3d8436c1ad149d9085aaa0" sha1="2cc928c24feba7d7d5371f9d6c9004cb9f8cf02b"/>
+	</game>
+	<game name="LEGO Movie - The Game (Japan)">
+		<category>Games</category>
+		<description>LEGO Movie - The Game (Japan)</description>
+		<rom name="LEGO Movie - The Game (Japan).zip" size="8366691716" crc="15d0e4ae" md5="15d0e4ae74b7c314df4da6141b1df506" sha1="bdacb1afade2680b2e7ab13b1efafdb90158fc15"/>
+	</game>
+	<game name="LEGO Movie, The - Videogame (USA) (En,Fr,Es,Pt) (Rev 1)">
+		<category>Games</category>
+		<description>LEGO Movie, The - Videogame (USA) (En,Fr,Es,Pt) (Rev 1)</description>
+		<rom name="LEGO Movie, The - Videogame (USA) (En,Fr,Es,Pt) (Rev 1).zip" size="8565434144" crc="de75411d" md5="de75411d4f8017d69c2576abe2b0e829" sha1="869522e01303af7798c63bf4bb33761add130ced"/>
+	</game>
+	<game name="LEGO Star Wars - Force no Kakusei (Japan)">
+		<category>Games</category>
+		<description>LEGO Star Wars - Force no Kakusei (Japan)</description>
+		<rom name="LEGO Star Wars - Force no Kakusei (Japan).zip" size="6239641529" crc="dea31401" md5="dea31401ab462172b33a3a5799f47861" sha1="c76463a2e6d3e9f774380a44ef85e4eab56886c5"/>
+	</game>
+	<game name="LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt)</description>
+		<rom name="LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).zip" size="6439201238" crc="37b4e0ce" md5="37b4e0ce56638fb25d88023b89ce4d6d" sha1="094b9ba813174c4bbb1bcfeb79039883db0789ed"/>
+	</game>
+	<game name="LEGO The Hobbit (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>LEGO The Hobbit (USA) (En,Fr,Es,Pt)</description>
+		<rom name="LEGO The Hobbit (USA) (En,Fr,Es,Pt).zip" size="8689731800" crc="3696be0a" md5="3696be0a9b3142bf1d48300e7e7ab8ad" sha1="a4a8f3aa8212355d629e38f38c7e1de0f0580eac"/>
+	</game>
+	<game name="Legend of Kay - Anniversary (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Legend of Kay - Anniversary (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Legend of Kay - Anniversary (USA) (En,Fr,De,Es,It).zip" size="4815604021" crc="aa734c61" md5="aa734c61bd3b33c97287168ae87cd43a" sha1="bed24a428e75c65f3ebe72e8955371c2c7c9075e"/>
+	</game>
+	<game name="Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es)</description>
+		<rom name="Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).zip" size="13861632601" crc="487cd508" md5="487cd50851b742461084d45447f073b3" sha1="17bc1419209e2f9da8c1e81e0f903772d2f0878a"/>
+	</game>
+	<game name="Legend of Zelda, The - The Wind Waker HD (USA, Asia) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - The Wind Waker HD (USA, Asia) (En,Fr,Es)</description>
+		<rom name="Legend of Zelda, The - The Wind Waker HD (USA, Asia) (En,Fr,Es).zip" size="2899026542" crc="077bfcf1" md5="077bfcf190aaba8e3d038f53fe86a92f" sha1="a6e70733beece5e5fd7b01ed7bdd17d0a20f80c6"/>
+	</game>
+	<game name="Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es) (Rev 2)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es) (Rev 2)</description>
+		<rom name="Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es) (Rev 2).zip" size="5998612687" crc="ba16daf8" md5="ba16daf82d4673a235da8badfb94ab6c" sha1="57b5333ca2305dce5f57fc385d389b6f2c1efd3a"/>
+	</game>
+	<game name="Luv Me Buddies - Wonderland (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Luv Me Buddies - Wonderland (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Luv Me Buddies - Wonderland (Europe) (En,Fr,De,Es,It).zip" size="1190237434" crc="96c533d6" md5="96c533d64bc866a20b822a3a5324a887" sha1="57c6f7abd475f2d3861a23bff368e7347d987399"/>
+	</game>
+	<game name="Madden NFL 13 (USA)">
+		<category>Games</category>
+		<description>Madden NFL 13 (USA)</description>
+		<rom name="Madden NFL 13 (USA).zip" size="5164511265" crc="b9f09617" md5="b9f096175fa4853334bafc2ef2e93599" sha1="68899ef1da7457fb8b3ae01db2186cb5b45b41be"/>
+	</game>
+	<game name="Mario &amp; Sonic at Rio Olympic (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Mario &amp; Sonic at Rio Olympic (Japan) (Rev 1)</description>
+		<rom name="Mario &amp; Sonic at Rio Olympic (Japan) (Rev 1).zip" size="4224300508" crc="edf831d2" md5="edf831d27407f2936c4830b46c4b6f53" sha1="eb605fd1561ea30937e4637e3b3f7a23fe8f47fc"/>
+	</game>
+	<game name="Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es)</description>
+		<rom name="Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es).zip" size="4279040235" crc="b57f541b" md5="b57f541be58f35c191b30153c8fd9132" sha1="06732d9d7f7b80cd3b9f6fa8c7ad83470d9baade"/>
+	</game>
+	<game name="Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (USA) (En,Fr,Es)</description>
+		<rom name="Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (USA) (En,Fr,Es).zip" size="10033685907" crc="46e03288" md5="46e032884c9b426fd894fd27ae6b55c1" sha1="84a4fb218003760f0fe556bdc9c322c5a4c6ec33"/>
+	</game>
+	<game name="Mario &amp; Sonic at the Sochi Olympic (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Mario &amp; Sonic at the Sochi Olympic (Japan) (Rev 1)</description>
+		<rom name="Mario &amp; Sonic at the Sochi Olympic (Japan) (Rev 1).zip" size="10002422891" crc="5008d9c5" md5="5008d9c55b39ac23db9f54b92ce4dfd5" sha1="f4907de020261904d3479639591666c640e94faf"/>
+	</game>
+	<game name="Mario Kart 8 (USA) (En,Fr,Es) (Rev 5)">
+		<category>Games</category>
+		<description>Mario Kart 8 (USA) (En,Fr,Es) (Rev 5)</description>
+		<rom name="Mario Kart 8 (USA) (En,Fr,Es) (Rev 5).zip" size="6142681597" crc="0b1b2993" md5="0b1b2993c597129f1bde219eed879aba" sha1="53d1ae13975054f1bfa9b1b37147e9b65c5321b5"/>
+	</game>
+	<game name="Mario Party 10 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Mario Party 10 (USA) (En,Fr,Es)</description>
+		<rom name="Mario Party 10 (USA) (En,Fr,Es).zip" size="4306509229" crc="064f59e2" md5="064f59e21cf09c2c2c2532dd63b82bdb" sha1="683ab58fd8e9affe1a667e77a5fa31fe7c606798"/>
+	</game>
+	<game name="Mario Tennis - Ultra Smash (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Mario Tennis - Ultra Smash (USA) (En,Fr,Es)</description>
+		<rom name="Mario Tennis - Ultra Smash (USA) (En,Fr,Es).zip" size="2149921425" crc="d9eb3bde" md5="d9eb3bdedc0bd6c54e1abff0107b6aa0" sha1="013b60bdb7a9210e1dce8d5984075dc95ea33170"/>
+	</game>
+	<game name="Mario vs. Donkey Kong - Minna de Mini Land (Japan)">
+		<category>Games</category>
+		<description>Mario vs. Donkey Kong - Minna de Mini Land (Japan)</description>
+		<rom name="Mario vs. Donkey Kong - Minna de Mini Land (Japan).zip" size="1676090681" crc="44231f54" md5="44231f5454561a057eca7179a1bbc58b" sha1="e682d623a88a82a5d4d177146aa4a2eb65d68d98"/>
+	</game>
+	<game name="Marvel Avengers - Battle for Earth (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Marvel Avengers - Battle for Earth (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Marvel Avengers - Battle for Earth (USA) (En,Fr,Es,Pt).zip" size="3599921370" crc="7fc37f0c" md5="7fc37f0c814b9828c538f1ce84962f85" sha1="0973a1a895363a4575c97eb2bf1c2ac3f30a8fc3"/>
+	</game>
+	<game name="Mass Effect 3 - Special Edition (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Mass Effect 3 - Special Edition (USA) (En,Fr,Es)</description>
+		<rom name="Mass Effect 3 - Special Edition (USA) (En,Fr,Es).zip" size="17926660371" crc="b6c130a4" md5="b6c130a4ba1074abec719958eeb67ee8" sha1="0af990a4c7e17a29bac3fb79cae6be3a7fba8560"/>
+	</game>
+	<game name="Mass Effect 3 - Tokubetsu-ban (Japan)">
+		<category>Games</category>
+		<description>Mass Effect 3 - Tokubetsu-ban (Japan)</description>
+		<rom name="Mass Effect 3 - Tokubetsu-ban (Japan).zip" size="16129696739" crc="4aaba49e" md5="4aaba49e3d5f23c89497942251201f86" sha1="a4bf17d623133f129d66f89d0b23595e5d1127a4"/>
+	</game>
+	<game name="Mass Effect 3 - Tokubetsuban (Japan)">
+		<category>Games</category>
+		<description>Mass Effect 3 - Tokubetsuban (Japan)</description>
+		<rom name="Mass Effect 3 - Tokubetsuban (Japan).zip" size="16129696737" crc="6e1900f1" md5="6e1900f1d76efaf1db4d032b16bf125a" sha1="5d9e7baf472e62237c588c4a69d1745c42d2753a"/>
+	</game>
+	<game name="Mighty No. 9 (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)">
+		<category>Games</category>
+		<description>Mighty No. 9 (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)</description>
+		<rom name="Mighty No. 9 (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).zip" size="4355581347" crc="5814ed7a" md5="5814ed7a7fd1132607f566b917580fa8" sha1="8fc047f1ca7eea43fae8f0c2a31d5a379f717572"/>
+	</game>
+	<game name="Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA) (En,Fr,Es,Pt).zip" size="6407437313" crc="d3d646e6" md5="d3d646e6e6bf8beee9763fa35b7c3564" sha1="f8ce442cbb145a5e5978b305cef5c8dd4a12e313"/>
+	</game>
+	<game name="Minecraft - Wii U Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (Rev 1)">
+		<category>Games</category>
+		<description>Minecraft - Wii U Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (Rev 1)</description>
+		<rom name="Minecraft - Wii U Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (Rev 1).zip" size="2107574072" crc="efa4a232" md5="efa4a232ad511ce9fd54a9ce5c7818f8" sha1="9030ce03cbe1898a9f31ce890847288525381d65"/>
+	</game>
+	<game name="Monster High - 13 Wishes (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Monster High - 13 Wishes (USA) (En,Fr,Es)</description>
+		<rom name="Monster High - 13 Wishes (USA) (En,Fr,Es).zip" size="4441261099" crc="5e877f83" md5="5e877f83731494f8eec308c8d36d9606" sha1="5bad7bc8c4009d39485758ed119b45ef98f0d3cc"/>
+	</game>
+	<game name="Monster High - New Ghoul in School (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Monster High - New Ghoul in School (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Monster High - New Ghoul in School (USA) (En,Fr,Es,Pt).zip" size="2726968477" crc="92e0b622" md5="92e0b6227c444bce286927c5b0232f1a" sha1="2849f1163adf8c9aa1652b27521cfb797d350e87"/>
+	</game>
+	<game name="Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It).zip" size="6491782270" crc="4003b672" md5="4003b6723d95962a6f24ccd7c54ad7ea" sha1="e4e8f144e12b051555fcd7e52d734f3659ebd96f"/>
+	</game>
+	<game name="Monster Hunter 3G - HD Ver. (Japan)">
+		<category>Games</category>
+		<description>Monster Hunter 3G - HD Ver. (Japan)</description>
+		<rom name="Monster Hunter 3G - HD Ver. (Japan).zip" size="6631946799" crc="f9252650" md5="f925265000f72a73410d9527c6d34274" sha1="b8ec5aa70cda9409a45532d1df4bcbc9f27b871b"/>
+	</game>
+	<game name="Monster Hunter Frontier G - Beginner's Package (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Monster Hunter Frontier G - Beginner's Package (Japan) (Rev 1)</description>
+		<rom name="Monster Hunter Frontier G - Beginner's Package (Japan) (Rev 1).zip" size="3185957463" crc="2674e744" md5="2674e74498e69dd5b40bbea48a4b4627" sha1="1b0d9a00d93475de0d58fea409b4bbeafa509d95"/>
+	</game>
+	<game name="Monster Hunter Frontier G - Memorial Package (Japan)">
+		<category>Games</category>
+		<description>Monster Hunter Frontier G - Memorial Package (Japan)</description>
+		<rom name="Monster Hunter Frontier G - Memorial Package (Japan).zip" size="3185367697" crc="8c901b5c" md5="8c901b5c4520596dabb3b618e4944fff" sha1="35b6fcd5f3e9ed4a6725d2bd7e6947a729b695b6"/>
+	</game>
+	<game name="Monster Hunter Frontier G5 - Premium Package (Japan)">
+		<category>Games</category>
+		<description>Monster Hunter Frontier G5 - Premium Package (Japan)</description>
+		<rom name="Monster Hunter Frontier G5 - Premium Package (Japan).zip" size="3185367692" crc="5c03856c" md5="5c03856cdbc650806868aeaee8816d2e" sha1="96fd73d6d6b06bbe3f67468512202023b130bc46"/>
+	</game>
+	<game name="Monster Hunter Frontier G6 - Premium Package (Japan)">
+		<category>Games</category>
+		<description>Monster Hunter Frontier G6 - Premium Package (Japan)</description>
+		<rom name="Monster Hunter Frontier G6 - Premium Package (Japan).zip" size="3187750367" crc="b0ab1a9e" md5="b0ab1a9e8416cc5b862d49fba5351699" sha1="027d0bac5ba482eb84ed0219e8c16566a13b1842"/>
+	</game>
+	<game name="Monster Hunter Frontier G7 - Premium Package (Japan)">
+		<category>Games</category>
+		<description>Monster Hunter Frontier G7 - Premium Package (Japan)</description>
+		<rom name="Monster Hunter Frontier G7 - Premium Package (Japan).zip" size="3349912521" crc="81b30cde" md5="81b30cde45009f97da1bb00a2f4768e0" sha1="8a1c78b6a271942d30db580adc83b3163c8140d5"/>
+	</game>
+	<game name="Monster Hunter Frontier G8 - Premium Package (Japan)">
+		<category>Games</category>
+		<description>Monster Hunter Frontier G8 - Premium Package (Japan)</description>
+		<rom name="Monster Hunter Frontier G8 - Premium Package (Japan).zip" size="3372464293" crc="3b13cb1b" md5="3b13cb1b7540e1343e5c824522e03945" sha1="d5b597c0c71dce5e03c47e492dedcc4f84d1c625"/>
+	</game>
+	<game name="Monster Hunter Frontier G9 - Premium Package (Japan)">
+		<category>Games</category>
+		<description>Monster Hunter Frontier G9 - Premium Package (Japan)</description>
+		<rom name="Monster Hunter Frontier G9 - Premium Package (Japan).zip" size="3372464299" crc="dadbbda4" md5="dadbbda4bdc21fc2598397db509f9835" sha1="b6694a541e72599c1e2728fd5b0d0fb496b99d03"/>
+	</game>
+	<game name="Monster Hunter Frontier GG - Premium Package (Japan)">
+		<category>Games</category>
+		<description>Monster Hunter Frontier GG - Premium Package (Japan)</description>
+		<rom name="Monster Hunter Frontier GG - Premium Package (Japan).zip" size="3185367697" crc="90743586" md5="9074358633afa5879d4440c4ff3d154f" sha1="8f224fba67cb47e6ea74ed967e40f97e12ac2e6d"/>
+	</game>
+	<game name="Musou Orochi 2 Hyper (Japan)">
+		<category>Games</category>
+		<description>Musou Orochi 2 Hyper (Japan)</description>
+		<rom name="Musou Orochi 2 Hyper (Japan).zip" size="16758444000" crc="a669fa8e" md5="a669fa8e746686ba71e9016dab0c850d" sha1="24a920153660a2bd2a7457af32fe701abef34b37"/>
+	</game>
+	<game name="NBA 2K13 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>NBA 2K13 (USA) (En,Fr,Es)</description>
+		<rom name="NBA 2K13 (USA) (En,Fr,Es).zip" size="21218527675" crc="68801319" md5="68801319db0488f5c48167b0206269ae" sha1="e7cbe92b357fac47bc52b989caffd7092043da38"/>
+	</game>
+	<game name="NES Remix Pack (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>NES Remix Pack (USA) (En,Fr,Es)</description>
+		<rom name="NES Remix Pack (USA) (En,Fr,Es).zip" size="1225998208" crc="ea224f8a" md5="ea224f8a54c1a7ed17c3c103a67bfd3a" sha1="7faa914b285b0002a3f778c41b7b8d5f93555dd9"/>
+	</game>
+	<game name="Need for Speed - Most Wanted U (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Need for Speed - Most Wanted U (USA) (En,Fr,Es)</description>
+		<rom name="Need for Speed - Most Wanted U (USA) (En,Fr,Es).zip" size="6527860831" crc="7394748b" md5="7394748b194832144fefc4eb608e80c8" sha1="8b30cf3914bfda48045857b8abb6c061ad249000"/>
+	</game>
+	<game name="Need for Speed - Most Wanted U - A Criterion Game (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Need for Speed - Most Wanted U - A Criterion Game (USA) (En,Fr,Es)</description>
+		<rom name="Need for Speed - Most Wanted U - A Criterion Game (USA) (En,Fr,Es).zip" size="6527860869" crc="771cb09e" md5="771cb09e93e3b40da26fc5dad0c57a2e" sha1="48b63c7c3bdeba3677aebd6a2da74aece9269ed0"/>
+	</game>
+	<game name="New Super Luigi U (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>New Super Luigi U (USA) (En,Fr,Es)</description>
+		<rom name="New Super Luigi U (USA) (En,Fr,Es).zip" size="2577952622" crc="441e6e87" md5="441e6e8773f235783c4f3246825b5a6e" sha1="e0847ca95722139e4e412d0470ad985c7b58976f"/>
+	</game>
+	<game name="New Super Mario Bros. U (USA) (En,Fr,Es) (Rev 2)">
+		<category>Games</category>
+		<description>New Super Mario Bros. U (USA) (En,Fr,Es) (Rev 2)</description>
+		<rom name="New Super Mario Bros. U (USA) (En,Fr,Es) (Rev 2).zip" size="1913944449" crc="6346b051" md5="6346b0511565de083ab297f1077cff9c" sha1="7b8d1de1ca160ed2b2b9a86488894e886c91bd44"/>
+	</game>
+	<game name="New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es)</description>
+		<rom name="New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).zip" size="15664032132" crc="b8e19efb" md5="b8e19efb42cca6350f22085ea2a190fa" sha1="d8cbce8dac0b3936db4711403973e0279640023f"/>
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA) (En,Fr)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA) (En,Fr).zip" size="2380979159" crc="5abb0186" md5="5abb0186d6ece897b7c3b5a321510e58" sha1="b3c4751c98fecf399cf41462607b171e4ec16cd6"/>
+	</game>
+	<game name="Ninja Gaiden 3 - Razor's Edge (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Ninja Gaiden 3 - Razor's Edge (USA) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Ninja Gaiden 3 - Razor's Edge (USA) (En,Ja,Fr,De,Es,It).zip" size="5795841798" crc="459c4c58" md5="459c4c5811863352057536c4a7fb444f" sha1="9bb90920cbf21933860a0b028528a5852a367ca1"/>
+	</game>
+	<game name="Nintendo Land (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Nintendo Land (USA) (En,Fr,Es)</description>
+		<rom name="Nintendo Land (USA) (En,Fr,Es).zip" size="3091346335" crc="2b3e5f37" md5="2b3e5f37c68ba910dcad8da97a116c96" sha1="cbb5f871680b5b98a3252e44209b774bef6c4b13"/>
+	</game>
+	<game name="One Piece - Unlimited World R (Japan)">
+		<category>Games</category>
+		<description>One Piece - Unlimited World R (Japan)</description>
+		<rom name="One Piece - Unlimited World R (Japan).zip" size="12390759460" crc="3a984c7e" md5="3a984c7ef7760a99753dfc5e8e71b75b" sha1="87c325edfa02c6c751c759a3b172ac8f1a64ee8d"/>
+	</game>
+	<game name="One Piece - Unlimited World Red (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>One Piece - Unlimited World Red (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="One Piece - Unlimited World Red (Europe) (En,Fr,De,Es,It).zip" size="13113799335" crc="b21780b9" md5="b21780b9a110e22f8301e7df65a3821b" sha1="b12bc966c3b488d0ab4334e859fd3a562c26153f"/>
+	</game>
+	<game name="Pac-Man and the Ghostly Adventures (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Pac-Man and the Ghostly Adventures (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Pac-Man and the Ghostly Adventures (USA) (En,Fr,Es,Pt).zip" size="4872311333" crc="57d98dd8" md5="57d98dd87502245e966b5605feb681c7" sha1="fa2684d2276429b7c5cffb88247e8506d74ab276"/>
+	</game>
+	<game name="Pac-Man and the Ghostly Adventures 2 (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Pac-Man and the Ghostly Adventures 2 (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Pac-Man and the Ghostly Adventures 2 (USA) (En,Fr,Es,Pt).zip" size="5306409088" crc="e181bd81" md5="e181bd81e9eedc752bd80198a13648db" sha1="4ffb6005cb01b04673aaf628209e541c1cb6bd99"/>
+	</game>
+	<game name="Paper Mario - Color Splash (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Paper Mario - Color Splash (USA) (En,Fr,Es)</description>
+		<rom name="Paper Mario - Color Splash (USA) (En,Fr,Es).zip" size="9518986206" crc="918c63f4" md5="918c63f4e095aac9e234e47fb7dc9843" sha1="2dbcfb21fbec409cfcfc952e90e3e7bf1fa64a4b"/>
+	</game>
+	<game name="Pikmin 3 (USA) (En,Fr,Es) (Rev 1)">
+		<category>Games</category>
+		<description>Pikmin 3 (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Pikmin 3 (USA) (En,Fr,Es) (Rev 1).zip" size="5184240738" crc="9e25e332" md5="9e25e3324734d23a33d92adcee75baee" sha1="4fa2be3d38c883f571b4d9cf192bafb6e34d41c9"/>
+	</game>
+	<game name="Pokken - Pokken Tournament (Japan)">
+		<category>Games</category>
+		<description>Pokken - Pokken Tournament (Japan)</description>
+		<rom name="Pokken - Pokken Tournament (Japan).zip" size="4962426733" crc="871b2e29" md5="871b2e29f90a77254d446ff0c74ed24e" sha1="f5a16bb1a70fb7ad6eb531f702a3c3375325cb03"/>
+	</game>
+	<game name="Pokken Tournament (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Pokken Tournament (USA) (En,Fr,Es)</description>
+		<rom name="Pokken Tournament (USA) (En,Fr,Es).zip" size="5017429744" crc="4362808e" md5="4362808e85028fcc2e2acb20ddab94d5" sha1="4adee885f7bd2b08b9e16c739802f28e901d3813"/>
+	</game>
+	<game name="Project Zero - Maiden of Black Water (Europe) (En,Fr,De)">
+		<category>Games</category>
+		<description>Project Zero - Maiden of Black Water (Europe) (En,Fr,De)</description>
+		<rom name="Project Zero - Maiden of Black Water (Europe) (En,Fr,De).zip" size="16595432134" crc="192c2f0e" md5="192c2f0ecce3b59629612bc4f0073fe6" sha1="f98f772131c7645bbbb558f5dc88c1dbf654939f"/>
+	</game>
+	<game name="Puyo Puyo Tetris (Japan)">
+		<category>Games</category>
+		<description>Puyo Puyo Tetris (Japan)</description>
+		<rom name="Puyo Puyo Tetris (Japan).zip" size="3326131068" crc="44e3d13f" md5="44e3d13fdc3eed81a8158977680b1a66" sha1="721b00752e6bc918589746f7fc060b1ae31fc9e9"/>
+	</game>
+	<game name="Rabbids Land (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Rabbids Land (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Rabbids Land (USA) (En,Fr,Es,Pt).zip" size="7821570752" crc="200c48a6" md5="200c48a6d895e3b268b56580ee23a2d7" sha1="edd0107096aaecf6cb17c89499a8c485c358b685"/>
+	</game>
+	<game name="Rapala Pro Bass Fishing (USA)">
+		<category>Games</category>
+		<description>Rapala Pro Bass Fishing (USA)</description>
+		<rom name="Rapala Pro Bass Fishing (USA).zip" size="7137466186" crc="51d3751d" md5="51d3751d93e71560736f49316ba0315a" sha1="98185b62f5a02f2e95e2ade1fac53d7867f0708b"/>
+	</game>
+	<game name="Rayman Legends (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Rayman Legends (USA) (En,Fr,Es)</description>
+		<rom name="Rayman Legends (USA) (En,Fr,Es).zip" size="8308344030" crc="86753737" md5="86753737f0599c017c3aaba1c7993570" sha1="69c91e3b224559ed5d2f9d534b2757468619fde6"/>
+	</game>
+	<game name="Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru) (Rev 1)">
+		<category>Games</category>
+		<description>Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru) (Rev 1)</description>
+		<rom name="Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru) (Rev 1).zip" size="14669146153" crc="7632b0d0" md5="7632b0d0783f646c2c3290d37295d156" sha1="a87a4ffb9e3fe43562e973e6017be06d65a15df9"/>
+	</game>
+	<game name="Rodea the Sky Soldier (USA) (En,Ja,Fr,De)">
+		<category>Games</category>
+		<description>Rodea the Sky Soldier (USA) (En,Ja,Fr,De)</description>
+		<rom name="Rodea the Sky Soldier (USA) (En,Ja,Fr,De).zip" size="5793052916" crc="ca15c3ed" md5="ca15c3edc4b3617c035a14d0b267d4c2" sha1="46d6bc97b12cdcb2e3f122e53b71e9038e8da8a3"/>
+	</game>
+	<game name="Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).zip" size="2239313242" crc="b3e5a2a3" md5="b3e5a2a3a8374b231cf61fe5634fa9df" sha1="8713e69f90699cca9113c286d488750d423e22f2"/>
+	</game>
+	<game name="Ryuu ga Gotoku 1 &amp; 2 HD for Wii U (Japan)">
+		<category>Games</category>
+		<description>Ryuu ga Gotoku 1 &amp; 2 HD for Wii U (Japan)</description>
+		<rom name="Ryuu ga Gotoku 1 &amp; 2 HD for Wii U (Japan).zip" size="20716683124" crc="4c7b8854" md5="4c7b8854b5ab289779b65c0bed9ba384" sha1="29a300050d36b35371c51cafa0d13488af03bd1b"/>
+	</game>
+	<game name="Sangokushi 12 (Japan)">
+		<category>Games</category>
+		<description>Sangokushi 12 (Japan)</description>
+		<rom name="Sangokushi 12 (Japan).zip" size="4295075211" crc="c4eeaf89" md5="c4eeaf89829601e69901d427deb3ccef" sha1="8e563b65aa73c8047dadeab044e24aa620bc2d30"/>
+	</game>
+	<game name="Sangokushi 12 with Power-Up Kit (Japan)">
+		<category>Games</category>
+		<description>Sangokushi 12 with Power-Up Kit (Japan)</description>
+		<rom name="Sangokushi 12 with Power-Up Kit (Japan).zip" size="6666642887" crc="f21a9747" md5="f21a9747c2e07016bb7bf9f94081480e" sha1="970aab62dd8c0db4d616f76585a59d11dcd4733e"/>
+	</game>
+	<game name="Scribblenauts Unlimited (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Scribblenauts Unlimited (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Scribblenauts Unlimited (USA) (En,Fr,Es,Pt).zip" size="1540716284" crc="35f92e5d" md5="35f92e5d0e7dc918a21ec46b3102aaeb" sha1="20d4a41d31a66cb1398f2deae3549fd03d85dca2"/>
+	</game>
+	<game name="Scribblenauts Unmasked - A DC Comics Adventure (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Scribblenauts Unmasked - A DC Comics Adventure (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Scribblenauts Unmasked - A DC Comics Adventure (USA) (En,Fr,Es,Pt).zip" size="2209084659" crc="2a145d76" md5="2a145d7638b90760a7a6b55f5d16dfd9" sha1="98eddecbbd104e69d2457b08dba3d732cb5eeb9b"/>
+	</game>
+	<game name="Shakedown - Hawaii (USA)">
+		<category>Games</category>
+		<description>Shakedown - Hawaii (USA)</description>
+		<rom name="Shakedown - Hawaii (USA).zip" size="1350100282" crc="02656a16" md5="02656a16c871e355f0d8ca72dc29daa5" sha1="23175977c5eaf5ec83a9ae85326da48b84f8b967"/>
+	</game>
+	<game name="Shantae - Half-Genie Hero (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Shantae - Half-Genie Hero (USA) (En,Fr,Es)</description>
+		<rom name="Shantae - Half-Genie Hero (USA) (En,Fr,Es).zip" size="2971208138" crc="2a4a25d9" md5="2a4a25d9e2677ab20aed608b1a90fea6" sha1="ba4392349209fd304c8294fc6a4cecdb683ab464"/>
+	</game>
+	<game name="Shin Hokuto Musou (Japan)">
+		<category>Games</category>
+		<description>Shin Hokuto Musou (Japan)</description>
+		<rom name="Shin Hokuto Musou (Japan).zip" size="12735168479" crc="6f9a990e" md5="6f9a990ea0a3bd96e8ba635e75e42d66" sha1="b8448441ce7934801efd3daec3d80d034a7d00ba"/>
+	</game>
+	<game name="Shmup Collection (Europe)">
+		<category>Games</category>
+		<description>Shmup Collection (Europe)</description>
+		<rom name="Shmup Collection (Europe).zip" size="1827724989" crc="49fed9ee" md5="49fed9eeecae256736668e5b7ae1a5ef" sha1="f37bac1f864ed5f1c0946c3d99d0499c733c365f"/>
+	</game>
+	<game name="Shovel Knight (USA)">
+		<category>Games</category>
+		<description>Shovel Knight (USA)</description>
+		<rom name="Shovel Knight (USA).zip" size="1541567674" crc="e6599a35" md5="e6599a353531a6317520ce9817eef55e" sha1="1494eeb132c58f6c9930a49f56a79594d3344991"/>
+	</game>
+	<game name="Simple Series for Wii U Vol. 1 - The Family Party (Japan)">
+		<category>Games</category>
+		<description>Simple Series for Wii U Vol. 1 - The Family Party (Japan)</description>
+		<rom name="Simple Series for Wii U Vol. 1 - The Family Party (Japan).zip" size="536552174" crc="0c9b807f" md5="0c9b807f160fa8a7d702224146cd0517" sha1="adc7c3dba05f453ab48dd497770cc0d3de2bd0a3"/>
+	</game>
+	<game name="Sing Party (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Sing Party (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Sing Party (USA) (En,Fr,Es,Pt).zip" size="12058743972" crc="e6de7070" md5="e6de7070ea465913bfdf6c1a87f67ef8" sha1="2292aadefbf9a1d27f226d061f8a469c4c984250"/>
+	</game>
+	<game name="Skylanders - Giants (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Skylanders - Giants (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Skylanders - Giants (USA) (En,Fr,Es,Pt).zip" size="11701138227" crc="4865157e" md5="4865157ebed1bae820516cc148b8235e" sha1="cac33954e4f2fcfeda1d7a62d05c6ffd20961d92"/>
+	</game>
+	<game name="Skylanders - Imaginators (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Skylanders - Imaginators (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Skylanders - Imaginators (USA) (En,Fr,Es,Pt).zip" size="22099216402" crc="da8548ff" md5="da8548ff882939d0168e7786da1131ed" sha1="462c030e9517c184f9ba9e8b637bf82640deae5c"/>
+	</game>
+	<game name="Skylanders - Spyro's Adventure (Japan)">
+		<category>Games</category>
+		<description>Skylanders - Spyro's Adventure (Japan)</description>
+		<rom name="Skylanders - Spyro's Adventure (Japan).zip" size="6704812936" crc="5e761f2c" md5="5e761f2c031e7d3b0207c4cb3b51fdc4" sha1="a081f9da9544ce2b409553b0ad80ae6734d296c2"/>
+	</game>
+	<game name="Skylanders - SuperChargers (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Skylanders - SuperChargers (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Skylanders - SuperChargers (USA) (En,Fr,Es,Pt).zip" size="17802626588" crc="67753f16" md5="67753f16c8cdd36034bd7c85da8f08d2" sha1="877de5eed2424ff372ee003756811a5c6f1d9299"/>
+	</game>
+	<game name="Skylanders - Swap Force (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Skylanders - Swap Force (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Skylanders - Swap Force (USA) (En,Fr,Es,Pt).zip" size="16188208122" crc="0ee5de35" md5="0ee5de358742808d23b6ba49d8283ccd" sha1="2728a96c47590e2c5fb1ab40dfa0bdd2abc2da3b"/>
+	</game>
+	<game name="Skylanders - Trap Team (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Skylanders - Trap Team (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Skylanders - Trap Team (USA) (En,Fr,Es,Pt).zip" size="12451229104" crc="f37de96a" md5="f37de96aa4097d7349b8aaefdbd8074f" sha1="fd31fb49734c27d1ee7e66b13209408999fd819f"/>
+	</game>
+	<game name="Smurfs 2, The (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Smurfs 2, The (USA) (En,Fr,Es)</description>
+		<rom name="Smurfs 2, The (USA) (En,Fr,Es).zip" size="1627287850" crc="15a5abeb" md5="15a5abeb90435fc6bca3b61dc02b3f2c" sha1="9fda641e2819329cb2b8e36bf572a5bb4f8c4430"/>
+	</game>
+	<game name="Sniper Elite V2 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Sniper Elite V2 (USA) (En,Fr,Es)</description>
+		<rom name="Sniper Elite V2 (USA) (En,Fr,Es).zip" size="2830454555" crc="350bb932" md5="350bb9324258860fc5223b76ddcc9054" sha1="4926dabdccc37bfbf9d6608ee4e641e2887e79e6"/>
+	</game>
+	<game name="Snoopy's Grand Adventure (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Snoopy's Grand Adventure (USA) (En,Fr)</description>
+		<rom name="Snoopy's Grand Adventure (USA) (En,Fr).zip" size="2632954505" crc="6d80c33c" md5="6d80c33cc3cfe44a99aa4bc032a5e790" sha1="dc13ab90dc1eaf68d7e46928f6055be01a4b1ab1"/>
+	</game>
+	<game name="Sonic &amp; All-Stars Racing Transformed (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Sonic &amp; All-Stars Racing Transformed (USA) (En,Fr,Es)</description>
+		<rom name="Sonic &amp; All-Stars Racing Transformed (USA) (En,Fr,Es).zip" size="6267700042" crc="829bb48b" md5="829bb48b4dc2aebdac0ca44f4df9c003" sha1="1330e04f9afb76240e052c91e4b43e5c79c4c2b0"/>
+	</game>
+	<game name="Sonic Boom - Rise of Lyric (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Sonic Boom - Rise of Lyric (USA) (En,Fr,Es)</description>
+		<rom name="Sonic Boom - Rise of Lyric (USA) (En,Fr,Es).zip" size="9648594448" crc="1ea22cda" md5="1ea22cdadb91ecdf40d66a81e01be1ae" sha1="c0eb46c7361bb3ed04ab82c6619412f3a981d2cb"/>
+	</game>
+	<game name="Sonic Lost World (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Sonic Lost World (USA) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Sonic Lost World (USA) (En,Ja,Fr,De,Es,It).zip" size="7985828599" crc="a0a8ddcf" md5="a0a8ddcffbe76bd3639d209c687b1297" sha1="76321f14dfbefc2deffa29116936fbdbe17247ba"/>
+	</game>
+	<game name="Sonic Toon - Taiko no Hihou (Japan)">
+		<category>Games</category>
+		<description>Sonic Toon - Taiko no Hihou (Japan)</description>
+		<rom name="Sonic Toon - Taiko no Hihou (Japan).zip" size="9996221583" crc="196dca64" md5="196dca640468ffdc37354a017f7e98fa" sha1="cb65ac386e9eebb25a313e872965b5c9367f48d8"/>
+	</game>
+	<game name="Splatoon (USA) (En,Fr,Es) (Rev 2)">
+		<category>Games</category>
+		<description>Splatoon (USA) (En,Fr,Es) (Rev 2)</description>
+		<rom name="Splatoon (USA) (En,Fr,Es) (Rev 2).zip" size="3754639683" crc="8e631e52" md5="8e631e52e7fa26571909671a55c34c42" sha1="146a7023c89c4a5f1f1a22292d6dc62d815013bb"/>
+	</game>
+	<game name="Sports Connection (Europe) (En,Fr,De,Es,It,Nl,Ru,Ca)">
+		<category>Games</category>
+		<description>Sports Connection (Europe) (En,Fr,De,Es,It,Nl,Ru,Ca)</description>
+		<rom name="Sports Connection (Europe) (En,Fr,De,Es,It,Nl,Ru,Ca).zip" size="2101475554" crc="48e5328f" md5="48e5328fbdac37b2342c2c94b1f12774" sha1="0072313b194a3e11d22aff763f974a677c09dd67"/>
+	</game>
+	<game name="Star Fox Guard (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Star Fox Guard (USA) (En,Fr,Es)</description>
+		<rom name="Star Fox Guard (USA) (En,Fr,Es).zip" size="2701631389" crc="ca92facf" md5="ca92facfa2205f97c82742c4d685c8a3" sha1="2d5adcc4ae0f77f42fb74076ee82859b464a78a6"/>
+	</game>
+	<game name="Star Fox Zero (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Star Fox Zero (USA) (En,Fr,Es)</description>
+		<rom name="Star Fox Zero (USA) (En,Fr,Es).zip" size="6575957247" crc="6ebe0d25" md5="6ebe0d250386c2eda0fb44783ba23393" sha1="9e7ea1d17a6d02be05dff6453d76d58906df1fe7"/>
+	</game>
+	<game name="SteamWorld Collection (USA) (En,Ja,Fr,De,Es,It,Ru)">
+		<category>Games</category>
+		<description>SteamWorld Collection (USA) (En,Ja,Fr,De,Es,It,Ru)</description>
+		<rom name="SteamWorld Collection (USA) (En,Ja,Fr,De,Es,It,Ru).zip" size="1627279809" crc="7bfa1306" md5="7bfa13060ea8f77d8f8dd667f8490e8e" sha1="c7436e9b128b466bf9c608cff71e8e03a6deda65"/>
+	</game>
+	<game name="Super Mario 3D World (USA) (En,Fr,Es) (Rev 2)">
+		<category>Games</category>
+		<description>Super Mario 3D World (USA) (En,Fr,Es) (Rev 2)</description>
+		<rom name="Super Mario 3D World (USA) (En,Fr,Es) (Rev 2).zip" size="2991564684" crc="cdb1a3a5" md5="cdb1a3a55dbc55e933b8b67de4b5ef5e" sha1="1d82089d033be5c487902c8f1a8219673ebfa474"/>
+	</game>
+	<game name="Super Mario Maker (USA) (En,Fr,Es) (Rev 5)">
+		<category>Games</category>
+		<description>Super Mario Maker (USA) (En,Fr,Es) (Rev 5)</description>
+		<rom name="Super Mario Maker (USA) (En,Fr,Es) (Rev 5).zip" size="2414977623" crc="4074eda9" md5="4074eda9e8e1bef47e56649c6d6b50eb" sha1="d072ae38be8fd149d1798506fadef312313939ed"/>
+	</game>
+	<game name="Super Smash Bros. for Wii U (USA, Asia) (En,Fr,Es) (Rev 10)">
+		<category>Games</category>
+		<description>Super Smash Bros. for Wii U (USA, Asia) (En,Fr,Es) (Rev 10)</description>
+		<rom name="Super Smash Bros. for Wii U (USA, Asia) (En,Fr,Es) (Rev 10).zip" size="16238067658" crc="b44773bd" md5="b44773bd63ca8692d8807e2635be821b" sha1="4011952d98986149327aeb87c8cc4f247f513166"/>
+	</game>
+	<game name="Susume! Kinopio Taichou (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Susume! Kinopio Taichou (Japan) (Rev 1)</description>
+		<rom name="Susume! Kinopio Taichou (Japan) (Rev 1).zip" size="2570251542" crc="7a312b8d" md5="7a312b8d67619bea84f6724e065a3fe9" sha1="839be353a9c0b59a55dc2e16b0a938176cf29e11"/>
+	</game>
+	<game name="Taiko no Tatsujin - Atsumete Tomodachi Daisakusen! (Japan)">
+		<category>Games</category>
+		<description>Taiko no Tatsujin - Atsumete Tomodachi Daisakusen! (Japan)</description>
+		<rom name="Taiko no Tatsujin - Atsumete Tomodachi Daisakusen! (Japan).zip" size="3220695089" crc="9bfe8a61" md5="9bfe8a61090d3f83138dfcaa7d4753f6" sha1="c76357c5ccfa659ca17de3493e3fdf4d682885ea"/>
+	</game>
+	<game name="Taiko no Tatsujin - Tokumori! (Japan)">
+		<category>Games</category>
+		<description>Taiko no Tatsujin - Tokumori! (Japan)</description>
+		<rom name="Taiko no Tatsujin - Tokumori! (Japan).zip" size="3052435218" crc="23436514" md5="2343651478bb75f61306867e0aec8b83" sha1="3d82590649f6fd4b201c46421bb03ab21f1dc7af"/>
+	</game>
+	<game name="Taiko no Tatsujin - Wii U Version! (Japan)">
+		<category>Games</category>
+		<description>Taiko no Tatsujin - Wii U Version! (Japan)</description>
+		<rom name="Taiko no Tatsujin - Wii U Version! (Japan).zip" size="2579710739" crc="ecf68c0e" md5="ecf68c0e25e481ad7412be6b13f635ad" sha1="a345ef3d781aada6ddbf3bbe375f1b7e705b7342"/>
+	</game>
+	<game name="Tank! Tank! Tank! (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Tank! Tank! Tank! (USA) (En,Fr,Es)</description>
+		<rom name="Tank! Tank! Tank! (USA) (En,Fr,Es).zip" size="1730705171" crc="da84c3ff" md5="da84c3ffda437b99ab6933cd23ae877f" sha1="98e07a4c2702b30710294c96d96e1ddf50102523"/>
+	</game>
+	<game name="Tekken Tag Tournament 2 - Wii U Edition (USA) (En,Fr,Es) (Rev 1)">
+		<category>Games</category>
+		<description>Tekken Tag Tournament 2 - Wii U Edition (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Tekken Tag Tournament 2 - Wii U Edition (USA) (En,Fr,Es) (Rev 1).zip" size="16314178824" crc="19779866" md5="1977986607fcaf6cf81d071f5a086656" sha1="b1856bfbe4274e67ca52cb5d756bb441c577a343"/>
+	</game>
+	<game name="Terraria (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Terraria (USA) (En,Fr,Es)</description>
+		<rom name="Terraria (USA) (En,Fr,Es).zip" size="1475780855" crc="d29570be" md5="d29570be6019d326f29eccc5f8fa0331" sha1="3c391deeb96a076575c2c00d6650760084c3bbac"/>
+	</game>
+	<game name="Teslagrad (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Teslagrad (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Teslagrad (Europe) (En,Fr,De,Es,It).zip" size="2411170081" crc="6044403d" md5="6044403ddd7d1d694c4ad23ba2daebc3" sha1="2abac538d4cc24fe1501c42a25d64f34ebdba28a"/>
+	</game>
+	<game name="Tokyo Mirage Sessions FE (USA)">
+		<category>Games</category>
+		<description>Tokyo Mirage Sessions FE (USA)</description>
+		<rom name="Tokyo Mirage Sessions FE (USA).zip" size="14976162190" crc="8a53a8ac" md5="8a53a8ac5a83ef23275486a850bfa95f" sha1="d16029f889e76a718a963ee3a3e96d20c81c8826"/>
+	</game>
+	<game name="Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Pt).zip" size="16589165134" crc="37998145" md5="3799814558c228296016b2c5f54be5b1" sha1="5a9f513a4026fe1edf9eac667991459a399b4a3d"/>
+	</game>
+	<game name="Touch! Kirby Super Rainbow (Japan)">
+		<category>Games</category>
+		<description>Touch! Kirby Super Rainbow (Japan)</description>
+		<rom name="Touch! Kirby Super Rainbow (Japan).zip" size="4265634187" crc="d10d88c9" md5="d10d88c9ed66e322eda51feaa4ce3c1b" sha1="5fc3d8640a84d9c99d0150c59453e0794e1fe38b"/>
+	</game>
+	<game name="Transformers - Rise of the Dark Spark (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Transformers - Rise of the Dark Spark (USA) (En,Fr)</description>
+		<rom name="Transformers - Rise of the Dark Spark (USA) (En,Fr).zip" size="8907387648" crc="93e70dc4" md5="93e70dc4b6bf300c6fa63cdf5eb53668" sha1="c250eb57cd54f834a4b7233172a83807616e2ab6"/>
+	</game>
+	<game name="Transformers Prime - The Game (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Transformers Prime - The Game (USA) (En,Fr)</description>
+		<rom name="Transformers Prime - The Game (USA) (En,Fr).zip" size="2253831209" crc="0da82607" md5="0da826075abbfe38ebc9f3ebffc67f9d" sha1="ba3d9a4fcc55c86f4b766db0c0dca8d6b0d676a7"/>
+	</game>
+	<game name="Tumblestone (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th,Tr)">
+		<category>Games</category>
+		<description>Tumblestone (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th,Tr)</description>
+		<rom name="Tumblestone (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th,Tr).zip" size="2146154484" crc="7a295671" md5="7a2956715669b49a1b1b4d00e3a2c30c" sha1="b5c0fefaab84d0119ef90b366d376cdca24632a8"/>
+	</game>
+	<game name="Update - 2.04.02 (World)">
+		<category>Games</category>
+		<description>Update - 2.04.02 (World)</description>
+		<rom name="Update - 2.04.02 (World).zip" size="94616748" crc="b2bbe567" md5="b2bbe567275ca3242c54649c160ab9f4" sha1="a38d659fb34eb935fc791f2acd9683cebbc7e6c9"/>
+	</game>
+	<game name="Update - 2.05.00 (World)">
+		<category>Games</category>
+		<description>Update - 2.05.00 (World)</description>
+		<rom name="Update - 2.05.00 (World).zip" size="165492848" crc="d8d91341" md5="d8d913410a21df1dc46946ebb4bfe4ca" sha1="dd78178f87ada8ff9a65056170e085ddfb45d4c7"/>
+	</game>
+	<game name="Update - 2.06.01 (World)">
+		<category>Games</category>
+		<description>Update - 2.06.01 (World)</description>
+		<rom name="Update - 2.06.01 (World).zip" size="175937769" crc="aa811213" md5="aa8112130729d2c546224b685ac576f4" sha1="974bd383225dd2c9475d2c6782b3a4fd5cad24d4"/>
+	</game>
+	<game name="Update - 2.06.02 (World)">
+		<category>Games</category>
+		<description>Update - 2.06.02 (World)</description>
+		<rom name="Update - 2.06.02 (World).zip" size="181000727" crc="7870e7f3" md5="7870e7f311e10ef28e2ec951b410a983" sha1="900bdeb631b48f183ae3dfa15a0d8cb38ed7efbb"/>
+	</game>
+	<game name="Update - 2.07.01 (World)">
+		<category>Games</category>
+		<description>Update - 2.07.01 (World)</description>
+		<rom name="Update - 2.07.01 (World).zip" size="245795914" crc="0e5fbd84" md5="0e5fbd84817337fe18f73bfa5ed9756c" sha1="d9e241a6e4bf39c0c37779e7b1871faa74259d4c"/>
+	</game>
+	<game name="Update - 2.07.03 (World)">
+		<category>Games</category>
+		<description>Update - 2.07.03 (World)</description>
+		<rom name="Update - 2.07.03 (World).zip" size="247460834" crc="b96d9e93" md5="b96d9e937d7d05957c9cdf99e24e2abd" sha1="29f628469aad6a21d50c7408d3f6c11784824b9b"/>
+	</game>
+	<game name="Update - 2.07.03 P1 (World)">
+		<category>Games</category>
+		<description>Update - 2.07.03 P1 (World)</description>
+		<rom name="Update - 2.07.03 P1 (World).zip" size="285034819" crc="0b6b6aa2" md5="0b6b6aa2cf65acb76a4b692751eb8fad" sha1="2725f9950358c364a87afec66062521ad052afd6"/>
+	</game>
+	<game name="Update - 2.08.02 Alpha (World)">
+		<category>Games</category>
+		<description>Update - 2.08.02 Alpha (World)</description>
+		<rom name="Update - 2.08.02 Alpha (World).zip" size="411797866" crc="ebc5ba7f" md5="ebc5ba7f82a36f20f6b5f4c241edbca6" sha1="c124a78b710c1f09f640488efb184aee327e2ad4"/>
+	</game>
+	<game name="Voice, The - I Want You (USA)">
+		<category>Games</category>
+		<description>Voice, The - I Want You (USA)</description>
+		<rom name="Voice, The - I Want You (USA).zip" size="8035881183" crc="c34968d7" md5="c34968d75d3006d280f05231fd8cfc42" sha1="603c982759f030a00578803718929ab4daa4554e"/>
+	</game>
+	<game name="Walking Dead, The - Survival Instinct (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Walking Dead, The - Survival Instinct (USA) (En,Fr)</description>
+		<rom name="Walking Dead, The - Survival Instinct (USA) (En,Fr).zip" size="16210352495" crc="8d107835" md5="8d1078355575e69ec13ba91d69cf5b7a" sha1="e6077734ec5d33338b0d12870de24459cd7727b4"/>
+	</game>
+	<game name="Warriors Orochi 3 Hyper (USA)">
+		<category>Games</category>
+		<description>Warriors Orochi 3 Hyper (USA)</description>
+		<rom name="Warriors Orochi 3 Hyper (USA).zip" size="16757460727" crc="a18f22f9" md5="a18f22f9f9cb358d9c9d92c293fbcafe" sha1="56f94f19d8fea49f9ba9a99a5dfee41502b6faaf"/>
+	</game>
+	<game name="Watch Dogs (Japan)">
+		<category>Games</category>
+		<description>Watch Dogs (Japan)</description>
+		<rom name="Watch Dogs (Japan).zip" size="13053979181" crc="bca54875" md5="bca5487563ef9ea7f8daf4ac34406bfe" sha1="2883962e531e94b0ff788260a687ba3ab6ae6ca6"/>
+	</game>
+	<game name="Watch_Dogs (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>Watch_Dogs (USA) (En,Fr,Es,Pt)</description>
+		<rom name="Watch_Dogs (USA) (En,Fr,Es,Pt).zip" size="17464277736" crc="4fc8d04c" md5="4fc8d04c7b514aa3cbcbaceb8f2271ea" sha1="2f7327478130af0f3e24069a419b7c32f92cde07"/>
+	</game>
+	<game name="Wheel of Fortune (USA)">
+		<category>Games</category>
+		<description>Wheel of Fortune (USA)</description>
+		<rom name="Wheel of Fortune (USA).zip" size="1225576872" crc="86468ce7" md5="86468ce787d9e55be92c46d5ad0bc375" sha1="7d58e04883d8b3195ff4bb8d7db7b7c666a33a31"/>
+	</game>
+	<game name="Wii Fit U (USA) (En,Fr,Es) (Rev 2)">
+		<category>Games</category>
+		<description>Wii Fit U (USA) (En,Fr,Es) (Rev 2)</description>
+		<rom name="Wii Fit U (USA) (En,Fr,Es) (Rev 2).zip" size="4766337819" crc="30ae70bd" md5="30ae70bd4178519a17689cfb8d4bbfc2" sha1="a17af0da6213d386e4f4934e93517a63d06e4275"/>
+	</game>
+	<game name="Wii Party U (USA) (En,Fr,Es) (Rev 1)">
+		<category>Games</category>
+		<description>Wii Party U (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Wii Party U (USA) (En,Fr,Es) (Rev 1).zip" size="5402356072" crc="ac64907e" md5="ac64907e6934c59a193b061b42bcb5c7" sha1="8fa311c136090c202e79b3333210b10021f48588"/>
+	</game>
+	<game name="Wii Sports Club (USA) (En,Fr,Es) (Rev 1)">
+		<category>Games</category>
+		<description>Wii Sports Club (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="Wii Sports Club (USA) (En,Fr,Es) (Rev 1).zip" size="1773285676" crc="54007dbb" md5="54007dbb6d2560af205abb6b439d2670" sha1="cd1ea3271e7cef317e27050eb87607725d01c8c6"/>
+	</game>
+	<game name="Wonderful 101, The (USA) (En,Ja) (Rev 1)">
+		<category>Games</category>
+		<description>Wonderful 101, The (USA) (En,Ja) (Rev 1)</description>
+		<rom name="Wonderful 101, The (USA) (En,Ja) (Rev 1).zip" size="11777483860" crc="3d183552" md5="3d183552cf56d37dcf17cda63b57361f" sha1="f9f43e28e2bdc59d4a609d11718ada78a106a9de"/>
+	</game>
+	<game name="Xenoblade Chronicles X (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Xenoblade Chronicles X (USA) (En,Fr,Es)</description>
+		<rom name="Xenoblade Chronicles X (USA) (En,Fr,Es).zip" size="21862614341" crc="45c54939" md5="45c54939708ebfedfb63c382f1fc9a03" sha1="34de12c4ffb6a9e47b3e20d688fcfc18bc00ea1e"/>
+	</game>
+	<game name="Xenoblade X (Japan)">
+		<category>Games</category>
+		<description>Xenoblade X (Japan)</description>
+		<rom name="Xenoblade X (Japan).zip" size="21802297708" crc="9c7c0ecb" md5="9c7c0ecbb228b0b33c410d032408f1ec" sha1="ca47e3c0a38229c391c4f994b8a57c9aa7cabacb"/>
+	</game>
+	<game name="XenobladeX (Japan)">
+		<category>Games</category>
+		<description>XenobladeX (Japan)</description>
+		<rom name="XenobladeX (Japan).zip" size="21802297706" crc="7bd94571" md5="7bd945716c76b372214f64b2144054e1" sha1="f5ce478ed60ea6c738d87ef31228452f5b3215b2"/>
+	</game>
+	<game name="Yoshi Wool World (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Yoshi Wool World (Japan) (Rev 1)</description>
+		<rom name="Yoshi Wool World (Japan) (Rev 1).zip" size="8762930369" crc="73ca828d" md5="73ca828dbaa7402a97f2cb3d80fbae82" sha1="afd92c3f8417f09242560e3f99a5b1bbe97cb99a"/>
+	</game>
+	<game name="Yoshi's Woolly World (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Yoshi's Woolly World (USA) (En,Fr,Es)</description>
+		<rom name="Yoshi's Woolly World (USA) (En,Fr,Es).zip" size="8818326713" crc="2ba8b6f6" md5="2ba8b6f661ca5f9243f79b60936f96f0" sha1="c6bee62f013bb0aaacf62d6f578f4ccf821d8cba"/>
+	</game>
+	<game name="Youkai Watch Dance - Just Dance Special Version (Japan)">
+		<category>Games</category>
+		<description>Youkai Watch Dance - Just Dance Special Version (Japan)</description>
+		<rom name="Youkai Watch Dance - Just Dance Special Version (Japan).zip" size="3119571340" crc="61dc05aa" md5="61dc05aa2ff8849d010f86c92e7c4d2f" sha1="70d1954d1d2a5acc4c058e36a74fb6b960305444"/>
+	</game>
+	<game name="Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es)</description>
+		<rom name="Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).zip" size="2104425908" crc="c92cee71" md5="c92cee719a575fff10e2cffe197777e9" sha1="0cfbfa703de186a0ec967202532d8520fb6c258f"/>
+	</game>
+	<game name="Zelda Musou (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Zelda Musou (Japan) (Rev 1)</description>
+		<rom name="Zelda Musou (Japan) (Rev 1).zip" size="8427202838" crc="a8a9b8d5" md5="a8a9b8d5eafcb370e061ab8be483a10e" sha1="fa9b00e8b1a9e2d371ef2cfb58877c3c9f592683"/>
+	</game>
+	<game name="Zelda no Densetsu - Breath of the Wild (Japan)">
+		<category>Games</category>
+		<description>Zelda no Densetsu - Breath of the Wild (Japan)</description>
+		<rom name="Zelda no Densetsu - Breath of the Wild (Japan).zip" size="13597070949" crc="29b31a24" md5="29b31a244bc03f69df06791a7e19a8b2" sha1="aedd05ee152adfeeb645b4a9138f742cc37e51ba"/>
+	</game>
+	<game name="Zelda no Densetsu - Kaze no Takt HD (Japan)">
+		<category>Games</category>
+		<description>Zelda no Densetsu - Kaze no Takt HD (Japan)</description>
+		<rom name="Zelda no Densetsu - Kaze no Takt HD (Japan).zip" size="2842983434" crc="58542e68" md5="58542e688b35d171c13d6b4517e1ece1" sha1="43d2a28c7a6602d56d9c81fa5df0dd6bbc46b4bb"/>
+	</game>
+	<game name="Zelda no Densetsu - Kaze no Takuto HD (Japan)">
+		<category>Games</category>
+		<description>Zelda no Densetsu - Kaze no Takuto HD (Japan)</description>
+		<rom name="Zelda no Densetsu - Kaze no Takuto HD (Japan).zip" size="2842983438" crc="70f240e7" md5="70f240e77fccdf872aaf8cbcbc8ceebe" sha1="c1c6b2caaffc33ca05168d7f7b0d32a19b737180"/>
+	</game>
+	<game name="Zelda no Densetsu - Twilight Princess HD (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Zelda no Densetsu - Twilight Princess HD (Japan) (Rev 1)</description>
+		<rom name="Zelda no Densetsu - Twilight Princess HD (Japan) (Rev 1).zip" size="5942758454" crc="28be2f36" md5="28be2f364db7c82c993a04c7106627c7" sha1="988cea64fceb9198aa5ad937a09aa64c8dc8a38a"/>
+	</game>
+	<game name="Zero - Nuregarasu no Miko (Japan)">
+		<category>Games</category>
+		<description>Zero - Nuregarasu no Miko (Japan)</description>
+		<rom name="Zero - Nuregarasu no Miko (Japan).zip" size="13385868502" crc="f37853be" md5="f37853be78a54039dde5a8354f20f674" sha1="34dae89b0e3991d83fa98e446900bbc6900b3b9e"/>
+	</game>
+	<game name="ZombiU (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>ZombiU (USA) (En,Fr,Es,Pt)</description>
+		<rom name="ZombiU (USA) (En,Fr,Es,Pt).zip" size="6110685030" crc="ec525b54" md5="ec525b543e9f8740f1a436349cfb4d6c" sha1="d2500e48e3145cadfa768103a155b8ea06c98173"/>
+	</game>
+	<game name="Zumba Fitness - World Party (USA)">
+		<category>Games</category>
+		<description>Zumba Fitness - World Party (USA)</description>
+		<rom name="Zumba Fitness - World Party (USA).zip" size="14340859742" crc="72b75ca7" md5="72b75ca7102b183657576ce5c91ff73a" sha1="bb693c4314c99e8c9197edbfdbc060f69cf79211"/>
+	</game>
+</datafile>
